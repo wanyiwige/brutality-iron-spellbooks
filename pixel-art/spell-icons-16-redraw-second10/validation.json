@@ -1,0 +1,112 @@
+[
+  {
+    "id": "sacred_oath",
+    "name": "神圣誓言",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "71da30368e7a40ca88b2f06540dd624f15fb707394de5cfd7c3466037a839208"
+  },
+  {
+    "id": "sacrifice",
+    "name": "牺牲",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "de5e9a8374b650a0d1c789047ddfaed9e71bf237c62dc0f9cceaa3d20b7c06a0"
+  },
+  {
+    "id": "cosmic_cataclysm",
+    "name": "宇宙大灾变",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "7f3e5f51525a86988f642a21f9ab2132880869aa592de999592f0fb3eee32f1d"
+  },
+  {
+    "id": "gravitokinesis",
+    "name": "重力运动",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "d70e96c4bf4ddd011a86cf0e8d73ca5046701d0811edfbbaff4a9fc11749c79c"
+  },
+  {
+    "id": "meteor_shower",
+    "name": "流星雨",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "457ab64f73af76b6d5f23d3056dc7e36bb610aed91c1cfcd85d69300805320db"
+  },
+  {
+    "id": "singularity_shift",
+    "name": "奇点偏移",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "692ee2cc9c8548795fde16f386208d08e3d7ab3d0cedbe7a18103157fa61ccbb"
+  },
+  {
+    "id": "star_burst",
+    "name": "星爆",
+    "width": 16,
+    "height": 16,
+    "colors": 5,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "5a095ad69edf251895fa9f88304c8cb0541677109bd658ab7aae0075a93cb3cc"
+  },
+  {
+    "id": "star_stream",
+    "name": "星流",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "75c643ee6ff5e1b2fbc9e76aeecbadba7c1887ab3939d3725ee685cbdd7aca1b"
+  },
+  {
+    "id": "crescent_dart",
+    "name": "新月飞镖",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "7b40d5b07599faf11169dc25c20eb190736d30b29a0f10dc869d7125fedd4a8d"
+  },
+  {
+    "id": "crescent_scythe",
+    "name": "新月之镰",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "774fbb770f17bcfea3ea55e519bf0813fc58313196f9c837beb43392ec121cf3"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "IBI",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "irons_spellbooks:mithril_weave"
+    },
+    "F": {
+      "item": "terramity:angel_feather"
+    },
+    "I": {
+      "item": "terramity:prismatic_feather"
+    },
+    "B": {
+      "item": "irons_spellbooks:priest_leggings"
+    }
+  },
+  "result": {
+    "item": "brutality_iron:gabriel_ultrakill_leggings"
+  }
+}

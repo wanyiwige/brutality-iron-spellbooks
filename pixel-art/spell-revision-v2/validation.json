@@ -1,0 +1,204 @@
+[
+  {
+    "id": "circle_crystal",
+    "label": "水晶疗愈阵",
+    "size": [
+      64,
+      64
+    ],
+    "colors": 7,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      4,
+      4,
+      60,
+      60
+    ],
+    "sha256": "41c120d589a0f3e3e0373512d1e16a84ed13c1c18770706074bb0599ec514d42",
+    "animation": {
+      "width": 64,
+      "height": 64,
+      "frames": 32,
+      "frametime_ticks": 2,
+      "loop": false,
+      "animation": "reveal_once_then_hold"
+    }
+  },
+  {
+    "id": "circle_nature",
+    "label": "盖亚催生阵",
+    "size": [
+      64,
+      64
+    ],
+    "colors": 6,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      3,
+      3,
+      61,
+      61
+    ],
+    "sha256": "98dd4c6ba17dc17692467b5bef5c432096127c834c8d3874e66a68ebcff75d03",
+    "animation": {
+      "width": 64,
+      "height": 64,
+      "frames": 32,
+      "frametime_ticks": 2,
+      "loop": false,
+      "animation": "reveal_once_then_hold"
+    }
+  },
+  {
+    "id": "circle_eldritch",
+    "label": "邪术法阵",
+    "size": [
+      64,
+      64
+    ],
+    "colors": 6,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      3,
+      3,
+      60,
+      61
+    ],
+    "sha256": "41d8f27fd30833e40c0f03502ba03f791954c84c8d1f468fd6d9651c125548d6",
+    "animation": {
+      "width": 64,
+      "height": 64,
+      "frames": 32,
+      "frametime_ticks": 2,
+      "loop": false,
+      "animation": "reveal_once_then_hold"
+    }
+  },
+  {
+    "id": "plague_cloud",
+    "label": "疫病毒雾",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 5,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      2,
+      2,
+      14,
+      13
+    ],
+    "sha256": "952d4d683de061921399313e9a40a61ae8dbf3a436f7624dd771c72a6325b260",
+    "animation": {
+      "width": 16,
+      "height": 16,
+      "frames": 10,
+      "frametime_ticks": 2,
+      "loop": true,
+      "animation": "smoke_drift"
+    }
+  },
+  {
+    "id": "plague_wave",
+    "label": "腐蚀刃波",
+    "size": [
+      32,
+      48
+    ],
+    "colors": 7,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      2,
+      3,
+      30,
+      45
+    ],
+    "sha256": "493a5b81bded6ae261ab82b1c3e1b5310e0e8dc7e31980101ddca0f3f35673b2"
+  },
+  {
+    "id": "plague_claws",
+    "label": "腐甲爪痕",
+    "size": [
+      32,
+      32
+    ],
+    "colors": 7,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      2,
+      3,
+      29,
+      27
+    ],
+    "sha256": "754a03ec44e12a8dd64d880388ac7dfc54d0f0940e14ea4c9881dfadb13a460d"
+  },
+  {
+    "id": "shadowflame_slash",
+    "label": "影焰斩",
+    "size": [
+      24,
+      48
+    ],
+    "colors": 7,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      2,
+      4,
+      22,
+      44
+    ],
+    "sha256": "fc8d381ffb6c5a74d8d98f9891a9efe5c7f23dceed041da0894edc2087f773c3"
+  },
+  {
+    "id": "inferno_impact",
+    "label": "炼狱重击",
+    "size": [
+      64,
+      64
+    ],
+    "colors": 6,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      5,
+      5,
+      59,
+      59
+    ],
+    "sha256": "c34568905d8706fb999cb75b70dd6bbd86d2343031f3d88e6775d13b7cbd3596"
+  },
+  {
+    "id": "column_eldritch",
+    "label": "邪术光柱",
+    "size": [
+      16,
+      64
+    ],
+    "colors": 6,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      2,
+      6,
+      14,
+      57
+    ],
+    "sha256": "359220d18215d74a23cbcbfd941b133fc96306c280b0637efd1eadda46b5cf95"
+  },
+  {
+    "id": "column_holy",
+    "label": "圣光打击",
+    "size": [
+      16,
+      64
+    ],
+    "colors": 5,
+    "hard_alpha": true,
+    "alpha_bbox": [
+      2,
+      8,
+      14,
+      55
+    ],
+    "sha256": "ed16efb3c54cf00f7fef544adc0beacc5cf4aaec21eb5f851690fffec0dadb14"
+  }
+]

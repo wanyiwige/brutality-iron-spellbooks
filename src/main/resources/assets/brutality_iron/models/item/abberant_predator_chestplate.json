@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "brutality_iron:item/armor/abberant_predator_chestplate"
+  }
+}

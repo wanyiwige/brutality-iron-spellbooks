@@ -1,0 +1,122 @@
+[
+  {
+    "number": 21,
+    "id": "duo_lunaris",
+    "name": "双月",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "0091b12e07a21796bf56c4d7971b583f07ead841378a081cc372de86f26350f4"
+  },
+  {
+    "number": 22,
+    "id": "moonlit_mending",
+    "name": "月光修补",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "b39fb8ab85fddf53e35ef6ae9d36544d2b36b7038c2402fde7738798e0022c8a"
+  },
+  {
+    "number": 23,
+    "id": "nightfall",
+    "name": "黄昏",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "896d87fa967c7f2e063a8ee9637632f9227bbb796afbf47d47056e025e567d10"
+  },
+  {
+    "number": 24,
+    "id": "piercing_moonlight",
+    "name": "贯穿月光",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "6d42bf79a70167e8e8a0ea2fccfe69dc9ed0d285527c1fe75eb6be2da1ea1715"
+  },
+  {
+    "number": 25,
+    "id": "dematerialize",
+    "name": "非物质化",
+    "width": 16,
+    "height": 16,
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "19128ed938b8d6f5db9a78347c2eb85bfbd3ff32abc6db71d89a7b84abd060ee"
+  },
+  {
+    "number": 26,
+    "id": "edge_of_oblivion",
+    "name": "遗忘边缘",
+    "width": 16,
+    "height": 16,
+    "colors": 8,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "02caca24dfa0f494406de037865178ec680d6e2acdb08ebdb3935687ba304edb"
+  },
+  {
+    "number": 27,
+    "id": "gravitic_implosion",
+    "name": "重力内爆",
+    "width": 16,
+    "height": 16,
+    "colors": 8,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "59de6a3988ce413c95f741f7b6429601caae8007cdcb71ee1e39d53822e61c2f"
+  },
+  {
+    "number": 28,
+    "id": "intangible",
+    "name": "无形",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "ef1495f0a02ca80187ffcb914cdd6acebe179ccd846c0567a505cf23523852ac"
+  },
+  {
+    "number": 29,
+    "id": "spatial_rupture",
+    "name": "空间断裂",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "241216eae599d26747e6393fadf15f7f538490f9a72ea7a1e77d004bc514f1d2"
+  },
+  {
+    "number": 30,
+    "id": "void_walk",
+    "name": "虚空漫步",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "f8a7791c5625638b58dd903a8aaa3608a9aadab2a41c07a107f717ec3eae18c4"
+  }
+]

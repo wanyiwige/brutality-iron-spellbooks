@@ -1,0 +1,8 @@
+{
+  "width": 64,
+  "height": 64,
+  "frames": 32,
+  "frametime_ticks": 2,
+  "loop": false,
+  "animation": "reveal_once_then_hold"
+}

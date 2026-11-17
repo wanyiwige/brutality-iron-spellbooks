@@ -1,0 +1,123 @@
+[
+  {
+    "id": "circle_crystal",
+    "size": [
+      64,
+      64
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/crystal-native-reference.png",
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/magiccircles/circles-contact.png"
+    ],
+    "prompt": "One export-ready flat top-down magic-circle GAME TEXTURE sprite only, perfectly circular, centered, orthographic, genuine transparent background. Strict 64 by 64 logical pixel grid enlarged with crisp nearest-neighbor pixels. Limited 6-color palette, single-pixel stepped lines, NO smooth curves, NO soft bloom, NO gradients, NO shading on backdrop, NO isometric perspective, NO text labels, NO grid. Leave 3 logical pixels of transparent margin. MagicCircles reference is for ring arrangement only; simplify its micro lettering into bold pixel runes. Center mostly transparent for a world effect model. Distinct inner ring, rune annulus, outer ring and cardinal motifs. CRYSTAL HEALING circle, use exactly the Terramity pink-lavender crystal palette from reference1: dark violet, violet, orchid pink, light lavender, pale pink-white. Four or eight sharp diamond/crystal glyphs with 1px highlights. Two clear concentric rings and diamond geometric center left open. Clean symmetrical crystal motif. Match reference1 colors, no blue, no cyan, no gold.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-b3635c06-68fd-48ab-811f-7dfed46246ad.png"
+  },
+  {
+    "id": "circle_nature",
+    "size": [
+      64,
+      64
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/magiccircles/circles-contact.png"
+    ],
+    "prompt": "One export-ready flat top-down magic-circle GAME TEXTURE sprite only, perfectly circular, centered, orthographic, genuine transparent background. Strict 64 by 64 logical pixel grid enlarged with crisp nearest-neighbor pixels. Limited 6-color palette, single-pixel stepped lines, NO smooth curves, NO soft bloom, NO gradients, NO shading on backdrop, NO isometric perspective, NO text labels, NO grid. Leave 3 logical pixels of transparent margin. MagicCircles reference is for ring arrangement only; simplify its micro lettering into bold pixel runes. Center mostly transparent for a world effect model. Distinct inner ring, rune annulus, outer ring and cardinal motifs. NATURE GROWTH circle with dark forest green, moss green, leaf green, warm pale yellow-green. Two stepped concentric rings, four cardinal paired leaf sprouts, inner stylized seed-and-leaf geometric sigil. Organic vine shapes integrated in rune annulus but clean readable 1px pixels, not a decorative floral wreath. Pale highlights sparse.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-b346a82f-3dd6-44bf-998e-9b0528ab1cc0.png"
+  },
+  {
+    "id": "circle_eldritch",
+    "size": [
+      64,
+      64
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/magiccircles/circles-contact.png"
+    ],
+    "prompt": "One export-ready flat top-down magic-circle GAME TEXTURE sprite only, perfectly circular, centered, orthographic, genuine transparent background. Strict 64 by 64 logical pixel grid enlarged with crisp nearest-neighbor pixels. Limited 6-color palette, single-pixel stepped lines, NO smooth curves, NO soft bloom, NO gradients, NO shading on backdrop, NO isometric perspective, NO text labels, NO grid. Leave 3 logical pixels of transparent margin. MagicCircles reference is for ring arrangement only; simplify its micro lettering into bold pixel runes. Center mostly transparent for a world effect model. Distinct inner ring, rune annulus, outer ring and cardinal motifs. ELDRITCH STRIKE circle with black plum shadows, dark purple, violet, muted magenta and sickly ivory highlights. Eye-like central sigil around an open center, broken angular outer ring, six sparse triangular rune groups with threatening inward hooks. Clear ritual construction, occult and unsettling, not a flower, not a holy star. All large crisp chunky pixel clusters.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-59f14e58-ef49-450c-9d92-0345eb7de678.png"
+  },
+  {
+    "id": "plague_cloud",
+    "size": [
+      16,
+      16
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/plague-native-reference.png"
+    ],
+    "prompt": "A single export-ready Minecraft/Terraria Calamity plague VFX pixel sprite on genuine transparent background. No labels, no text, no grid, no ground shadow. Hard edge native low-resolution pixels shown enlarged, NO smoothing, NO blur, NO bloom, NO fine noise. Color budget SIX colors only: near-black green #101c19, black forest teal #23463c, dark olive green #386f32, leaf #579e3a, acid #98d642, yellow-green #c7ee71. Use attached RoACW plague-cloud frames as pixel cluster and palette reference, never include the scroll or missiles. Do not draw a generic neon green outline around a solid black center: interior must have shaded green lobes and broken clusters. Draw ONE compact toxic smoke puff on an exact 16x16 logical pixel grid. 4-6 broad interlocking uneven lobes, asymmetrical shading from pale upper-left to near-black lower-right. Distinct 2-4 pixel green clusters, ragged stepped edge, a couple of detached 1-pixel motes. 2 logical pixels margin. Looks like the RoACW cloud/Calamity Plague Cloud, not a broccoli or slime creature, no eyes, no skull, no symbols.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-b93f36ad-a2e8-4a02-b361-aa869f3e7917.png"
+  },
+  {
+    "id": "plague_wave",
+    "size": [
+      32,
+      48
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/plague-native-reference.png"
+    ],
+    "prompt": "A single export-ready Minecraft/Terraria Calamity plague VFX pixel sprite on genuine transparent background. No labels, no text, no grid, no ground shadow. Hard edge native low-resolution pixels shown enlarged, NO smoothing, NO blur, NO bloom, NO fine noise. Color budget SIX colors only: near-black green #101c19, black forest teal #23463c, dark olive green #386f32, leaf #579e3a, acid #98d642, yellow-green #c7ee71. Use attached RoACW plague-cloud frames as pixel cluster and palette reference, never include the scroll or missiles. Do not draw a generic neon green outline around a solid black center: interior must have shaded green lobes and broken clusters. Draw ONE tall irregular curving VIRULENT WAVE moving to the right, on exact32 wide x48 tall logical pixel canvas. Overall a bent crescent/front of toxic smoke: bright irregular right-facing leading edge, shadowy broken green interior, two tapering smoky hooks at top/bottom, scattered poison flecks trailing LEFT. Not a metal blade, not a weapon, not fire, not a glowing neon arc. Calamity Virulent Wave style layered churning toxic cloud shaped into slash. Fill 80 percent height, clean transparent inside concavity. No repeated frames.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-2ec1e450-df5d-463d-8bf2-8c5f91e1782a.png"
+  },
+  {
+    "id": "plague_claws",
+    "size": [
+      32,
+      32
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/plague-native-reference.png"
+    ],
+    "prompt": "A single export-ready Minecraft/Terraria Calamity plague VFX pixel sprite on genuine transparent background. No labels, no text, no grid, no ground shadow. Hard edge native low-resolution pixels shown enlarged, NO smoothing, NO blur, NO bloom, NO fine noise. Color budget SIX colors only: near-black green #101c19, black forest teal #23463c, dark olive green #386f32, leaf #579e3a, acid #98d642, yellow-green #c7ee71. Use attached RoACW plague-cloud frames as pixel cluster and palette reference, never include the scroll or missiles. Do not draw a generic neon green outline around a solid black center: interior must have shaded green lobes and broken clusters. Draw ONE set of THREE diagonal parallel poison CLAW CUTS, upper-left to lower-right, on exact32x32 logical pixel grid. Three distinct tapering jagged slash marks with 2-4pixel thick black-green cores and acid green leading edges, different lengths, small clustered toxic droplets at their ends. Aggressive raking cuts with clear empty gaps. VFX not actual animal claws, no hands, no emblem, no ring. All three together constitute one attack sprite.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-d3dc8a37-224d-4b81-a7fe-b0b8479024cf.png"
+  },
+  {
+    "id": "shadowflame_slash",
+    "size": [
+      24,
+      48
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/source-contact.png"
+    ],
+    "prompt": "ONE export-ready game VFX texture sprite on genuine transparent background, isolated, crisp native Minecraft pixel art with strict uniform pixel grid. No words, labels, grid lines, panels, background, perspective, blur, soft bloom, anti-aliased edges, smooth gradients. 6-8 flat colors max, large deliberate stepped clusters. Leave 2 logical pixels transparent margin. A single right-facing crescent SHADOWFLAME slash on24x48 logical pixel canvas. Reference purple slash from the attached contact sheet for silhouette only, draw a new texture. Deep near-black plum core with violet body, fuchsia-magenta blade rim and a few pink-white highlights. A few small detached purple fire tongues trail left from outer ends. Powerful sharp stepped crescent with readable thickness, not a skinny neon line. No orange or blue. No sword handle.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-01739e23-4d51-4a6d-82d9-47e066b06fa9.png"
+  },
+  {
+    "id": "inferno_impact",
+    "size": [
+      64,
+      64
+    ],
+    "refs": [
+      "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/audit/revision-references/source-contact.png"
+    ],
+    "prompt": "ONE export-ready game VFX texture sprite on genuine transparent background, isolated, crisp native Minecraft pixel art with strict uniform pixel grid. No words, labels, grid lines, panels, background, perspective, blur, soft bloom, anti-aliased edges, smooth gradients. 6-8 flat colors max, large deliberate stepped clusters. Leave 2 logical pixels transparent margin. Top-down INFERNO GROUND IMPACT sigil drawn on64x64 logical pixel grid. Jagged radial dark cracks with short PURPLE-CRIMSON FIRE tongues along a BROKEN circular shock front. Flames are magenta/violet/crimson with pink hot centers, deep black-purple shadows, strictly blocky stair-step fire. Clear empty transparent center and gaps between flame lobes, four larger irregular fissures. Not orange fire, not blue fire. Texture lies flat on ground, no perspective or objects.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-a2d6c918-a7d6-47d4-b3f8-6d7bb827ad7e.png"
+  },
+  {
+    "id": "column_eldritch",
+    "size": [
+      16,
+      64
+    ],
+    "refs": [],
+    "prompt": "ONE export-ready game VFX texture sprite on genuine transparent background, isolated, crisp native Minecraft pixel art with strict uniform pixel grid. No words, labels, grid lines, panels, background, perspective, blur, soft bloom, anti-aliased edges, smooth gradients. 6-8 flat colors max, large deliberate stepped clusters. Leave 2 logical pixels transparent margin. A tall upright narrow ELDRITCH LIGHT COLUMN VFX texture,16x64 logical pixel canvas. Pale sickly ivory thin fractured core running vertically, dark plum/purple structural bands and small jagged violet glyph fragments spaced around it, 3 distinct uneven breaks/energy knots. Ominous otherworldly ritual light, threatening sharp irregular edges and black-violet rim. No horizontal ground plane, no magic circle, no fluffy smoke, no fire or ornate architectural pillar. It is a flat vertical beam sprite.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-c8cfa4bb-fcbb-4810-b3da-d26b19120b43.png",
+    "previous_raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-2743253b-f33e-4de7-8930-5396e43dea81.png",
+    "revision": 2
+  },
+  {
+    "id": "column_holy",
+    "size": [
+      16,
+      64
+    ],
+    "refs": [],
+    "prompt": "ONE export-ready game VFX texture sprite on genuine transparent background, isolated, crisp native Minecraft pixel art with strict uniform pixel grid. No words, labels, grid lines, panels, background, perspective, blur, soft bloom, anti-aliased edges, smooth gradients. 6-8 flat colors max, large deliberate stepped clusters. Leave 2 logical pixels transparent margin. A tall upright narrow HOLY LIGHT STRIKE VFX texture,16x64 logical pixel canvas. Pale cream and white central vertical lance of light with stepped golden-yellow angular edges and a few separate luminous diamond pixels near top and lower end. Bright core, restrained gold bands. Distinct narrow shape, symmetrical but irregular energy breaks. No blue. No ground plane, no magic circle, no architectural column, no cloud. Flat vertical beam sprite suitable as 1 of3 strikes.",
+    "raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-38a97286-7ad9-4e1f-9595-bf510c6fabeb.png",
+    "previous_raw_path": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-d670f28d-2d0a-4ce0-9fcd-1140a2225f35.png",
+    "revision": 2
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "celestial_guard_hit": {
+    "sounds": [
+      "brutality_iron:celestial_guard_hit"
+    ]
+  },
+  "school_inferno": {
+    "sounds": [
+      "brutality_iron:selected/school_inferno"
+    ]
+  },
+  "school_plague": {
+    "sounds": [
+      "brutality_iron:selected/school_plague"
+    ]
+  },
+  "school_celestia": {
+    "sounds": [
+      "brutality_iron:selected/school_celestia"
+    ]
+  },
+  "spirit_charge": {
+    "sounds": [
+      "brutality_iron:selected/spirit_charge"
+    ]
+  },
+  "spirit_impact": {
+    "sounds": [
+      "brutality_iron:selected/spirit_impact"
+    ]
+  },
+  "triple_charge": {
+    "sounds": [
+      "brutality_iron:selected/triple_charge"
+    ]
+  },
+  "seeking_blades": {
+    "sounds": [
+      "brutality_iron:selected/seeking_blades"
+    ]
+  },
+  "fire_spirit_shot": {
+    "sounds": [
+      "brutality_iron:selected/fire_spirit_shot"
+    ]
+  },
+  "inferno_projectile": {
+    "sounds": [
+      "brutality_iron:selected/inferno_projectile"
+    ]
+  },
+  "plague_impact": {
+    "sounds": [
+      "brutality_iron:selected/plague_impact"
+    ]
+  },
+  "void_teleport": {
+    "sounds": [
+      "brutality_iron:selected/void_teleport"
+    ]
+  },
+  "black_hole": {
+    "sounds": [
+      "brutality_iron:selected/black_hole"
+    ]
+  }
+}

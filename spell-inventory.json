@@ -1,0 +1,302 @@
+[
+  {
+    "id": "brutality_iron:annihilation",
+    "original_school": "brimwielder",
+    "school": "brutality_iron:inferno",
+    "name": "歼灭",
+    "source_class": "net.goo.brutality.magic.spells.brimwielder.AnnihilationSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/brimwielder/AnnihilationSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:brimspike",
+    "original_school": "brimwielder",
+    "school": "brutality_iron:inferno",
+    "name": "尖刺",
+    "source_class": "net.goo.brutality.magic.spells.brimwielder.BrimspikeSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/brimwielder/BrimspikeSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:chthonic_capsule",
+    "original_school": "brimwielder",
+    "school": "brutality_iron:inferno",
+    "name": "通灵胶囊",
+    "source_class": "net.goo.brutality.magic.spells.brimwielder.ChthonicCapsuleSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/brimwielder/ChthonicCapsuleSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:destruction",
+    "original_school": "brimwielder",
+    "school": "brutality_iron:inferno",
+    "name": "毁灭",
+    "source_class": "net.goo.brutality.magic.spells.brimwielder.DestructionSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/brimwielder/DestructionSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:extinction",
+    "original_school": "brimwielder",
+    "school": "brutality_iron:inferno",
+    "name": "消光",
+    "source_class": "net.goo.brutality.magic.spells.brimwielder.ExtinctionSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/brimwielder/ExtinctionSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:stygian_step",
+    "original_school": "brimwielder",
+    "school": "brutality_iron:inferno",
+    "name": "冥河步",
+    "source_class": "net.goo.brutality.magic.spells.brimwielder.StygianStepSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/brimwielder/StygianStepSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:divine_retribution",
+    "original_school": "celestia",
+    "school": "brutality_iron:celestia",
+    "name": "神圣报应",
+    "source_class": "net.goo.brutality.magic.spells.celestia.DivineRetributionSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/celestia/DivineRetributionSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:heavenly_flight",
+    "original_school": "celestia",
+    "school": "brutality_iron:celestia",
+    "name": "天飞",
+    "source_class": "net.goo.brutality.magic.spells.celestia.HeavenlyFlightSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/celestia/HeavenlyFlightSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:holy_mantle",
+    "original_school": "celestia",
+    "school": "brutality_iron:celestia",
+    "name": "圣衣",
+    "source_class": "net.goo.brutality.magic.spells.celestia.HolyMantleSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/celestia/HolyMantleSpell.java",
+    "max_level": 3,
+    "min_rarity": "EPIC"
+  },
+  {
+    "id": "brutality_iron:light_binding",
+    "original_school": "celestia",
+    "school": "brutality_iron:celestia",
+    "name": "光缚",
+    "source_class": "net.goo.brutality.magic.spells.celestia.LightBindingSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/celestia/LightBindingSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:sacred_oath",
+    "original_school": "celestia",
+    "school": "brutality_iron:celestia",
+    "name": "神圣誓言",
+    "source_class": "net.goo.brutality.magic.spells.celestia.SacredOathSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/celestia/SacredOathSpell.java",
+    "max_level": 3,
+    "min_rarity": "EPIC"
+  },
+  {
+    "id": "brutality_iron:sacrifice",
+    "original_school": "celestia",
+    "school": "brutality_iron:celestia",
+    "name": "牺牲",
+    "source_class": "net.goo.brutality.magic.spells.celestia.SacrificeSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/celestia/SacrificeSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:cosmic_cataclysm",
+    "original_school": "cosmic",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "name": "宇宙大灾变",
+    "source_class": "net.goo.brutality.magic.spells.cosmic.CosmicCataclysmSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/cosmic/CosmicCataclysmSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:gravitokinesis",
+    "original_school": "cosmic",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "name": "重力运动",
+    "source_class": "net.goo.brutality.magic.spells.cosmic.GravitokinesisSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/cosmic/GravitokinesisSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:meteor_shower",
+    "original_school": "cosmic",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "name": "流星雨",
+    "source_class": "net.goo.brutality.magic.spells.cosmic.MeteorShowerSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/cosmic/MeteorShowerSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:singularity_shift",
+    "original_school": "cosmic",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "name": "奇点偏移",
+    "source_class": "net.goo.brutality.magic.spells.cosmic.SingularityShiftSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/cosmic/SingularityShiftSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:star_burst",
+    "original_school": "cosmic",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "name": "星爆",
+    "source_class": "net.goo.brutality.magic.spells.cosmic.StarBurstSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/cosmic/StarBurstSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:star_stream",
+    "original_school": "cosmic",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "name": "星流",
+    "source_class": "net.goo.brutality.magic.spells.cosmic.StarStreamSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/cosmic/StarStreamSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:crescent_dart",
+    "original_school": "umbrancy",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "name": "新月飞镖",
+    "source_class": "net.goo.brutality.magic.spells.umbrancy.CrescentDartSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/umbrancy/CrescentDartSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:crescent_scythe",
+    "original_school": "umbrancy",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "name": "新月之镰",
+    "source_class": "net.goo.brutality.magic.spells.umbrancy.CrescentScytheSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/umbrancy/CrescentScytheSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:duo_lunaris",
+    "original_school": "umbrancy",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "name": "双月",
+    "source_class": "net.goo.brutality.magic.spells.umbrancy.DuoLunarisSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/umbrancy/DuoLunarisSpell.java",
+    "max_level": 3,
+    "min_rarity": "EPIC"
+  },
+  {
+    "id": "brutality_iron:moonlit_mending",
+    "original_school": "umbrancy",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "name": "月光修补",
+    "source_class": "net.goo.brutality.magic.spells.umbrancy.MoonlitMendingSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/umbrancy/MoonlitMendingSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:nightfall",
+    "original_school": "umbrancy",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "name": "黄昏",
+    "source_class": "net.goo.brutality.magic.spells.umbrancy.NightfallSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/umbrancy/NightfallSpell.java",
+    "max_level": 3,
+    "min_rarity": "EPIC"
+  },
+  {
+    "id": "brutality_iron:piercing_moonlight",
+    "original_school": "umbrancy",
+    "school": "alex_caves_spellsbook:hazen_shadow",
+    "name": "贯穿月光",
+    "source_class": "net.goo.brutality.magic.spells.umbrancy.PiercingMoonlightSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/umbrancy/PiercingMoonlightSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:dematerialize",
+    "original_school": "voidwalker",
+    "school": "brutality_iron:nihility",
+    "name": "非物质化",
+    "source_class": "net.goo.brutality.magic.spells.voidwalker.DematerializeSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/voidwalker/DematerializeSpell.java",
+    "max_level": 3,
+    "min_rarity": "EPIC"
+  },
+  {
+    "id": "brutality_iron:edge_of_oblivion",
+    "original_school": "voidwalker",
+    "school": "brutality_iron:nihility",
+    "name": "遗忘边缘",
+    "source_class": "net.goo.brutality.magic.spells.voidwalker.EdgeOfOblivionSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/voidwalker/EdgeOfOblivionSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:gravitic_implosion",
+    "original_school": "voidwalker",
+    "school": "brutality_iron:nihility",
+    "name": "重力内爆",
+    "source_class": "net.goo.brutality.magic.spells.voidwalker.GraviticImplosionSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/voidwalker/GraviticImplosionSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  },
+  {
+    "id": "brutality_iron:intangible",
+    "original_school": "voidwalker",
+    "school": "brutality_iron:nihility",
+    "name": "无形",
+    "source_class": "net.goo.brutality.magic.spells.voidwalker.IntangibleSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/voidwalker/IntangibleSpell.java",
+    "max_level": 5,
+    "min_rarity": "RARE"
+  },
+  {
+    "id": "brutality_iron:spatial_rupture",
+    "original_school": "voidwalker",
+    "school": "brutality_iron:nihility",
+    "name": "空间断裂",
+    "source_class": "net.goo.brutality.magic.spells.voidwalker.SpatialRuptureSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/voidwalker/SpatialRuptureSpell.java",
+    "max_level": 10,
+    "min_rarity": "COMMON"
+  },
+  {
+    "id": "brutality_iron:void_walk",
+    "original_school": "voidwalker",
+    "school": "brutality_iron:nihility",
+    "name": "虚空漫步",
+    "source_class": "net.goo.brutality.magic.spells.voidwalker.VoidWalkSpell",
+    "ported_source": "src/main/java/cn/wanyiwige/brutalityiron/logic/voidwalker/VoidWalkSpell.java",
+    "max_level": 8,
+    "min_rarity": "UNCOMMON"
+  }
+]

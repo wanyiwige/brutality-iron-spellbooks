@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "brutality_iron:nihility_magic",
+    "brutality_iron:celestia_magic",
+    "brutality_iron:inferno_magic",
+    "brutality_iron:plague_magic"
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "number": 41,
+    "id": "crystal_sanctuary",
+    "name": "水晶疗愈阵",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 11,
+    "old_art_inputs": [],
+    "sha256": "fc4e9eb15eee9972fa2f6d6818dd03c5a71b6ab3f16b9b598982f233297ed16f"
+  },
+  {
+    "number": 42,
+    "id": "triple_judgment",
+    "name": "三重圣裁",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 10,
+    "old_art_inputs": [],
+    "sha256": "cd0467be2b284396ffa2e36e4c4c6ff0ae893f023f07a1de141a3c31a50d64a9"
+  },
+  {
+    "number": 43,
+    "id": "stygian_souls",
+    "name": "冥河游魂",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 9,
+    "old_art_inputs": [],
+    "sha256": "21cbe9ba2fe5e621a980944e8d85d82750a71507000b8b8e93a2c6ce775e89c0"
+  },
+  {
+    "number": 44,
+    "id": "stone_retinue",
+    "name": "石像卫队",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 9,
+    "old_art_inputs": [],
+    "sha256": "1252722ad994b4d14e282881d4c81137c7ab72a902e5d84eebcb7d6fca396282"
+  },
+  {
+    "number": 45,
+    "id": "spirit_bomb",
+    "name": "聚能灵弹",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 12,
+    "old_art_inputs": [],
+    "sha256": "0eb8304baab72acb2568b436ba322da89cb6c439e3f1610c6fdf089880621d19"
+  },
+  {
+    "number": 46,
+    "id": "triple_profane_beam",
+    "name": "三重邪光",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 11,
+    "old_art_inputs": [],
+    "sha256": "d4983653945781efd38e1cd7a1fffa6bd6e854779e90691994e26ebaebb4ec23"
+  },
+  {
+    "number": 47,
+    "id": "caustic_wave",
+    "name": "腐蚀刃波",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 9,
+    "old_art_inputs": [],
+    "sha256": "5ee886715db5776a026510f009d589e2c7c905af6bab04904608ea4056dc84e1"
+  },
+  {
+    "number": 48,
+    "id": "soulreaping_scythes",
+    "name": "追魂魔镰",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 12,
+    "old_art_inputs": [],
+    "sha256": "ddb184a1f61e14f5fa0ca94226cde4032e990fc8d11e9a6d991a8d09ada0a79f"
+  },
+  {
+    "number": 49,
+    "id": "devil_armament",
+    "name": "恶魔兵装",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 11,
+    "old_art_inputs": [],
+    "sha256": "ee98d73ecaf142c9f81fd67ed73ab0c46cff1610fb7d88f72173bf3eabfa592e"
+  },
+  {
+    "number": 50,
+    "id": "starlight_flurry",
+    "name": "星芒连刺",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 11,
+    "old_art_inputs": [],
+    "sha256": "f0a18fc1e2559162ee9c3bd572a89c1341b5a86fdbc0d8a65574082610cf79a6"
+  }
+]

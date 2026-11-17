@@ -1,0 +1,122 @@
+[
+  {
+    "number": 31,
+    "id": "event_horizon",
+    "name": "引力黑洞",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "d2902938a04c5f046deb48def8e6cd06e7f10c618002a24fdcb52f5f376fc804"
+  },
+  {
+    "number": 32,
+    "id": "cruel_sun",
+    "name": "残酷太阳",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "3f3a0581e33f13752cfa131fba772a25805314bc38644bce4ba19d39783c38b0"
+  },
+  {
+    "number": 33,
+    "id": "seeking_blades",
+    "name": "追踪剑光",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "0f6eef403c2a97a73675fcc39114547ac2d8cce0eaf829827679da903062b83d"
+  },
+  {
+    "number": 34,
+    "id": "stellar_marks",
+    "name": "星印引爆",
+    "width": 16,
+    "height": 16,
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "191c9d7c67ff8b9dd2a166e616774ea3eb1dfb002376ee3b069369b27a723e39"
+  },
+  {
+    "number": 35,
+    "id": "gale_fist",
+    "name": "火箭拳",
+    "width": 16,
+    "height": 16,
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "6991a3e06ac57adc1c4aeac267d898ab66e8fa0f69c007c6a1d64c98735bbdea"
+  },
+  {
+    "number": 36,
+    "id": "void_exchange",
+    "name": "末影换位",
+    "width": 16,
+    "height": 16,
+    "colors": 7,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "b6103a5bd433cee5f6ad9ea5d9deb991c267c49edda5ff1e247c76ff43ec007e"
+  },
+  {
+    "number": 37,
+    "id": "ceiling_ascent",
+    "name": "穿顶升行",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "c45714c946dfb2c4c41b7847d961c66e1478de0671bb62e4b8a542e2386d771d"
+  },
+  {
+    "number": 38,
+    "id": "inertia_reversal",
+    "name": "惯性逆转",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "ff12685275e561b682dfde26f1896623445758ae8c44195db09e20a7a887a25f"
+  },
+  {
+    "number": 39,
+    "id": "gale_recoil",
+    "name": "烈风退跃",
+    "width": 16,
+    "height": 16,
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "044ea23da0d5d79a7c6a4005ead04293231a567f0cb88ff4daf3ca3d945c6fe9"
+  },
+  {
+    "number": 40,
+    "id": "guardian_hand",
+    "name": "守护者之手",
+    "width": 16,
+    "height": 16,
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "preview_scale": 8,
+    "sha256": "5d5c0c1a2eaa514edebc4387c6bdddb127fd1d318cf520a0746cf2c9fb43eaa8"
+  }
+]

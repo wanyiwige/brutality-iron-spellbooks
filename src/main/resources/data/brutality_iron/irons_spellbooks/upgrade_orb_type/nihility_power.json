@@ -1,0 +1,9 @@
+{
+  "amount": 0.05,
+  "attribute": "brutality_iron:nihility_spell_power",
+  "containerItem": {
+    "Count": 1,
+    "id": "brutality_iron:nihility_upgrade_orb"
+  },
+  "operation": "MULTIPLY_BASE"
+}

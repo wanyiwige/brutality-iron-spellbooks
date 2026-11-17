@@ -1,0 +1,68 @@
+package cn.wanyiwige.brutalityiron;
+import java.util.List;
+import cn.wanyiwige.brutalityiron.logic.brimwielder.AnnihilationSpell;
+import cn.wanyiwige.brutalityiron.logic.brimwielder.BrimspikeSpell;
+import cn.wanyiwige.brutalityiron.logic.brimwielder.ChthonicCapsuleSpell;
+import cn.wanyiwige.brutalityiron.logic.brimwielder.DestructionSpell;
+import cn.wanyiwige.brutalityiron.logic.brimwielder.ExtinctionSpell;
+import cn.wanyiwige.brutalityiron.logic.brimwielder.StygianStepSpell;
+import cn.wanyiwige.brutalityiron.logic.celestia.DivineRetributionSpell;
+import cn.wanyiwige.brutalityiron.logic.celestia.HeavenlyFlightSpell;
+import cn.wanyiwige.brutalityiron.logic.celestia.HolyMantleSpell;
+import cn.wanyiwige.brutalityiron.logic.celestia.LightBindingSpell;
+import cn.wanyiwige.brutalityiron.logic.celestia.SacredOathSpell;
+import cn.wanyiwige.brutalityiron.logic.celestia.SacrificeSpell;
+import cn.wanyiwige.brutalityiron.logic.cosmic.CosmicCataclysmSpell;
+import cn.wanyiwige.brutalityiron.logic.cosmic.GravitokinesisSpell;
+import cn.wanyiwige.brutalityiron.logic.cosmic.MeteorShowerSpell;
+import cn.wanyiwige.brutalityiron.logic.cosmic.SingularityShiftSpell;
+import cn.wanyiwige.brutalityiron.logic.cosmic.StarBurstSpell;
+import cn.wanyiwige.brutalityiron.logic.cosmic.StarStreamSpell;
+import cn.wanyiwige.brutalityiron.logic.umbrancy.CrescentDartSpell;
+import cn.wanyiwige.brutalityiron.logic.umbrancy.CrescentScytheSpell;
+import cn.wanyiwige.brutalityiron.logic.umbrancy.DuoLunarisSpell;
+import cn.wanyiwige.brutalityiron.logic.umbrancy.MoonlitMendingSpell;
+import cn.wanyiwige.brutalityiron.logic.umbrancy.NightfallSpell;
+import cn.wanyiwige.brutalityiron.logic.umbrancy.PiercingMoonlightSpell;
+import cn.wanyiwige.brutalityiron.logic.voidwalker.DematerializeSpell;
+import cn.wanyiwige.brutalityiron.logic.voidwalker.EdgeOfOblivionSpell;
+import cn.wanyiwige.brutalityiron.logic.voidwalker.GraviticImplosionSpell;
+import cn.wanyiwige.brutalityiron.logic.voidwalker.IntangibleSpell;
+import cn.wanyiwige.brutalityiron.logic.voidwalker.SpatialRuptureSpell;
+import cn.wanyiwige.brutalityiron.logic.voidwalker.VoidWalkSpell;
+public final class SpellCatalog {
+    public static List<PortedLogic> create() {
+        return List.of(
+            new AnnihilationSpell(),
+            new BrimspikeSpell(),
+            new ChthonicCapsuleSpell(),
+            new DestructionSpell(),
+            new ExtinctionSpell(),
+            new StygianStepSpell(),
+            new DivineRetributionSpell(),
+            new HeavenlyFlightSpell(),
+            new HolyMantleSpell(),
+            new LightBindingSpell(),
+            new SacredOathSpell(),
+            new SacrificeSpell(),
+            new CosmicCataclysmSpell(),
+            new GravitokinesisSpell(),
+            new MeteorShowerSpell(),
+            new SingularityShiftSpell(),
+            new StarBurstSpell(),
+            new StarStreamSpell(),
+            new CrescentDartSpell(),
+            new CrescentScytheSpell(),
+            new DuoLunarisSpell(),
+            new MoonlitMendingSpell(),
+            new NightfallSpell(),
+            new PiercingMoonlightSpell(),
+            new DematerializeSpell(),
+            new EdgeOfOblivionSpell(),
+            new GraviticImplosionSpell(),
+            new IntangibleSpell(),
+            new SpatialRuptureSpell(),
+            new VoidWalkSpell());
+    }
+    private SpellCatalog() {}
+}

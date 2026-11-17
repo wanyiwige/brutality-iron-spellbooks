@@ -1,0 +1,9 @@
+{
+  "amount": 0.05,
+  "attribute": "brutality_iron:inferno_spell_power",
+  "containerItem": {
+    "Count": 1,
+    "id": "brutality_iron:inferno_upgrade_orb"
+  },
+  "operation": "MULTIPLY_BASE"
+}

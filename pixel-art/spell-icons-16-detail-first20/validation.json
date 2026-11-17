@@ -1,0 +1,282 @@
+[
+  {
+    "id": "annihilation",
+    "name": "歼灭",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 114,
+    "sha256": "d2c0c9f16baccc4d328341a6cd21fca8611c8a39fb57517e4c84a9462811c42f"
+  },
+  {
+    "id": "brimspike",
+    "name": "尖刺",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 133,
+    "sha256": "d68d290e4fa13574107047ca63882ebdb2a879b4a18581c40440156ef2d931f7"
+  },
+  {
+    "id": "chthonic_capsule",
+    "name": "通灵胶囊",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 9,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 80,
+    "sha256": "8af4fcf0625b69362332fcd19d577fa6b0fde1710697992cc6c6b289c44d5f09"
+  },
+  {
+    "id": "destruction",
+    "name": "毁灭",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 94,
+    "sha256": "74e096a06564c1089cf9ec8c5727a4ccfcd2815ddd28b55f1335ffabc2229e9d"
+  },
+  {
+    "id": "extinction",
+    "name": "消光",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 125,
+    "sha256": "1338e25ab7c2372b17d208a2fc2a1ce5f1507229337ab5d7bf2c2660e003b380"
+  },
+  {
+    "id": "stygian_step",
+    "name": "冥河步",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 120,
+    "sha256": "4005a22e4ff04fb04fe3c3004119e5d546ffe47b6bb18fa037cee9690a3ee62f"
+  },
+  {
+    "id": "divine_retribution",
+    "name": "神圣报应",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 140,
+    "sha256": "2da4fc6db0736abde570073214109e2db939b3dc521a2789749927ff2c4815cb"
+  },
+  {
+    "id": "heavenly_flight",
+    "name": "天飞",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 117,
+    "sha256": "ceafb33b1ddc5e52607b3a9d8daea9d6664d313bb9aedd82467ae3be569dd0f4"
+  },
+  {
+    "id": "holy_mantle",
+    "name": "圣衣",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 129,
+    "sha256": "03e5609f3edd578ab8c3445a2997eec667316ffc00bab8cddab6874ae60008eb"
+  },
+  {
+    "id": "light_binding",
+    "name": "光缚",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 124,
+    "sha256": "d0e0510994eda49c2a37ed91ba19d5c3094c6f760a33af08a8c0e518fd92d098"
+  },
+  {
+    "id": "sacred_oath",
+    "name": "神圣誓言",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 117,
+    "sha256": "17a36203715fd96937fb9558eff0e3668fb5cb14cb18ff08f94db7d5bd4a4172"
+  },
+  {
+    "id": "sacrifice",
+    "name": "牺牲",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 103,
+    "sha256": "58d327ed67a13486695df84746544931cc0e7ba26327d4da3ecd1b16f9fc82df"
+  },
+  {
+    "id": "cosmic_cataclysm",
+    "name": "宇宙大灾变",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 135,
+    "sha256": "aaa8411f88481fd5ca15cd0fc83957ab33d678ad7c15690c68262ef4a428a2f4"
+  },
+  {
+    "id": "gravitokinesis",
+    "name": "重力运动",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 143,
+    "sha256": "ecc3871ff8a8a824c6eaece7519484a39113a838ba576092d1a2b5df272da57f"
+  },
+  {
+    "id": "meteor_shower",
+    "name": "流星雨",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 12,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 155,
+    "sha256": "9935ce162db9159a67cc22154e936c7ca77e81959f67cf968ee862c14d12fedc"
+  },
+  {
+    "id": "singularity_shift",
+    "name": "奇点偏移",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 137,
+    "sha256": "44139445d533000786c0b8453365d932f6763a075bbd9bda7d5f1c44adf9a087"
+  },
+  {
+    "id": "star_burst",
+    "name": "星爆",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 141,
+    "sha256": "d6f50801ff8c246b8f71ea469b79061db1a5101013f1c5d054eb74054703995e"
+  },
+  {
+    "id": "star_stream",
+    "name": "星流",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 156,
+    "sha256": "6ce3b44a68a25181b1b0f771a1fb8d986fea4bd37b71b7c4d70bfe5f617fc46f"
+  },
+  {
+    "id": "crescent_dart",
+    "name": "新月飞镖",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 141,
+    "sha256": "6e668f608a48f1ebbf3f312e0fb199c65f27387013ca032ef424ca4a73125b21"
+  },
+  {
+    "id": "crescent_scythe",
+    "name": "新月之镰",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "original_unchanged": true,
+    "changed_pixels": 133,
+    "sha256": "dd842c7077cddda90ab777d76d91726723311a36adbff4cc14bfac8634c2d3ce"
+  }
+]

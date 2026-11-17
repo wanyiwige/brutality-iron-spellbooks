@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "brutality_iron:daemonic_tome",
+      "required": false
+    },
+    {
+      "id": "brutality_iron:darkist_tome",
+      "required": false
+    },
+    {
+      "id": "brutality_iron:cosmic_tome",
+      "required": false
+    },
+    {
+      "id": "brutality_iron:void_tome",
+      "required": false
+    },
+    {
+      "id": "brutality_iron:brimwielder_tome",
+      "required": false
+    },
+    {
+      "id": "brutality_iron:celestia_tome",
+      "required": false
+    }
+  ]
+}

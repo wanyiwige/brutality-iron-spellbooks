@@ -1,0 +1,17 @@
+{
+  "nihility": {
+    "source": "../generated-art/brutality-iron-scrolls/review/nihility-ring-silver-v2/scroll_nihility.png",
+    "sha256": "dafbc5ab3e32b798131f59fc3fe425177b8d1f3c9471e00df2a59e7a74730a9b",
+    "description": "User-selected newer silver ring variant; 40 native 16x16 frames"
+  },
+  "plague": {
+    "source": "../generated-art/brutality-iron-scrolls/review/plague-animated-v2-more-bubbles/scroll_plague.png",
+    "sha256": "e4178d1e86190cf253fcc010da9da2d89fd51820b37bafa0fe8a9d1c2567ac4c",
+    "description": "24-frame plague loop, increased bubble count; unchanged body, particle size and 16x16 frame",
+    "source_jar": "roacw-1.2.4.jar",
+    "source_entry": "assets/roacw/textures/item/scroll_plague.png",
+    "animation": true,
+    "animation_preview": "../generated-art/brutality-iron-scrolls/review/plague-animated-v2-more-bubbles/plague-scroll-animated.gif",
+    "visual_approval": "user_approved_for_integration"
+  }
+}

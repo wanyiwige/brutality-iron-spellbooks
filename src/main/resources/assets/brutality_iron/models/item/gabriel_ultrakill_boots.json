@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "brutality_iron:item/armor/gabriel_ultrakill_boots"
+  }
+}

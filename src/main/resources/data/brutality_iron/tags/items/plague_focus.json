@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "terramity:chthonic_crystal",
+    {
+      "id": "mortality:plague_core",
+      "required": false
+    }
+  ]
+}

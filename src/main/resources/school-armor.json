@@ -1,0 +1,1410 @@
+[
+  {
+    "family": "blazeborne",
+    "school": "inferno",
+    "slot": "HELMET",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 704,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:inferno_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "blazeborne",
+    "school": "inferno",
+    "slot": "CHESTPLATE",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 1024,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:inferno_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "blazeborne",
+    "school": "inferno",
+    "slot": "LEGGINGS",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 960,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:inferno_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "blazeborne",
+    "school": "inferno",
+    "slot": "BOOTS",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 832,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:inferno_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "seraph",
+    "school": "celestia",
+    "slot": "HELMET",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 704,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "seraph",
+    "school": "celestia",
+    "slot": "CHESTPLATE",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 1024,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "seraph",
+    "school": "celestia",
+    "slot": "LEGGINGS",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 960,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "seraph",
+    "school": "celestia",
+    "slot": "BOOTS",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 832,
+    "toughness": 3,
+    "knockback": 2,
+    "enchantment": 15,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": false,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 204,
+        "operation": "ADD_VALUE"
+      },
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.05,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "gabriel_ultrakill",
+    "school": "celestia",
+    "slot": "HELMET",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 704,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": true,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "gabriel_ultrakill",
+    "school": "celestia",
+    "slot": "CHESTPLATE",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 1024,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": true,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "gabriel_ultrakill",
+    "school": "celestia",
+    "slot": "LEGGINGS",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 960,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": true,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "gabriel_ultrakill",
+    "school": "celestia",
+    "slot": "BOOTS",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 832,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": true,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": true,
+    "bonuses": [
+      {
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:celestia_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "abberant_predator",
+    "school": "nihility",
+    "slot": "HELMET",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 704,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "abberant_predator",
+    "school": "nihility",
+    "slot": "CHESTPLATE",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 1024,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "abberant_predator",
+    "school": "nihility",
+    "slot": "LEGGINGS",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 960,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "abberant_predator",
+    "school": "nihility",
+    "slot": "BOOTS",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 832,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "masked_fool",
+    "school": "nihility",
+    "slot": "HELMET",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 352,
+    "toughness": 0,
+    "knockback": 0,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": false,
+    "mage_set": false,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 150.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "masked_fool",
+    "school": "nihility",
+    "slot": "CHESTPLATE",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 512,
+    "toughness": 0,
+    "knockback": 0,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": false,
+    "mage_set": false,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 150.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "masked_fool",
+    "school": "nihility",
+    "slot": "LEGGINGS",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 480,
+    "toughness": 0,
+    "knockback": 0,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": false,
+    "mage_set": false,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 150.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "masked_fool",
+    "school": "nihility",
+    "slot": "BOOTS",
+    "defense": [
+      3,
+      8,
+      6,
+      3
+    ],
+    "durability": 416,
+    "toughness": 0,
+    "knockback": 0,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": false,
+    "fire_resistant": false,
+    "mage_set": false,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 150.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.12,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "shadow_jester",
+    "school": "nihility",
+    "slot": "HELMET",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 704,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": true,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "shadow_jester",
+    "school": "nihility",
+    "slot": "CHESTPLATE",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 1024,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": true,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "shadow_jester",
+    "school": "nihility",
+    "slot": "LEGGINGS",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 960,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": true,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  },
+  {
+    "family": "shadow_jester",
+    "school": "nihility",
+    "slot": "BOOTS",
+    "defense": [
+      5,
+      10,
+      8,
+      5
+    ],
+    "durability": 832,
+    "toughness": 4.0,
+    "knockback": 0.15,
+    "enchantment": 20,
+    "flight": false,
+    "imbuable": true,
+    "unbreakable": true,
+    "fire_resistant": true,
+    "mage_set": true,
+    "animated": false,
+    "bonuses": [
+      {
+        "attribute": "alex_caves_spellsbook:hazen_shadow_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "irons_spellbooks:max_mana",
+        "value": 240.0,
+        "operation": "ADD_VALUE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "value": 0.06,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": false
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "value": 144.0,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "value": 4,
+        "operation": "ADD_VALUE",
+        "optional": true
+      },
+      {
+        "attribute": "malum:arcane_resonance",
+        "value": 0.15,
+        "operation": "ADD_MULTIPLIED_BASE",
+        "optional": true
+      },
+      {
+        "attribute": "brutality_iron:nihility_spell_power",
+        "value": 0.18,
+        "operation": "ADD_MULTIPLIED_BASE"
+      }
+    ]
+  }
+]

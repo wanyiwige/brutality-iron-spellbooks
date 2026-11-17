@@ -1,0 +1,182 @@
+[
+  {
+    "name": "blood_slash",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/blood_slash.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 29
+  },
+  {
+    "name": "firebolt",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/firebolt.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11
+  },
+  {
+    "name": "fireball",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/fireball.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 161
+  },
+  {
+    "name": "fire_breath",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/fire_breath.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10
+  },
+  {
+    "name": "burning_dash",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/burning_dash.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 10
+  },
+  {
+    "name": "blaze_storm",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/blaze_storm.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 42
+  },
+  {
+    "name": "healing_circle",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/healing_circle.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 15
+  },
+  {
+    "name": "angel_wing",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/angel_wing.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 131
+  },
+  {
+    "name": "guiding_bolt",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/guiding_bolt.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 6
+  },
+  {
+    "name": "divine_smite",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/divine_smite.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 111
+  },
+  {
+    "name": "chain_lightning",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/chain_lightning.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 6
+  },
+  {
+    "name": "magic_arrow",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/magic_arrow.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 5
+  },
+  {
+    "name": "magic_missile",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/magic_missile.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 5
+  },
+  {
+    "name": "starfall",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/starfall.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 5
+  },
+  {
+    "name": "teleport",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/teleport.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 9
+  },
+  {
+    "name": "black_hole",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/black_hole.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 5
+  },
+  {
+    "name": "eldritch_blast",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/eldritch_blast.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 147
+  },
+  {
+    "name": "evasion",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/evasion.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 4
+  },
+  {
+    "name": "sacrifice",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/sacrifice.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 11
+  },
+  {
+    "name": "fortify",
+    "path": "assets/irons_spellbooks/textures/gui/spell_icons/fortify.png",
+    "size": [
+      16,
+      16
+    ],
+    "colors": 16
+  }
+]

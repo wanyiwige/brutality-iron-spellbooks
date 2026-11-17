@@ -1,0 +1,306 @@
+[
+  {
+    "source_mod": "Brutality",
+    "source": "事件视界",
+    "name": "引力黑洞",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "空间塌缩与持续牵引。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "神圣战斧·利塔",
+    "name": "残酷太阳",
+    "school": "天界",
+    "school_id": "brutality_iron:celestia",
+    "reason": "以太阳天象和日光灼烧为主题，保留原点燃机制；与炼狱的地狱火区分。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "朗基努斯圣枪",
+    "name": "圣枪贯光",
+    "school": "天界",
+    "school_id": "brutality_iron:celestia",
+    "reason": "圣枪与圣光射线。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "暗影步",
+    "name": "暗影背袭",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "重点是瞬间空间位移，不再接入暗影学派。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "霜之哀伤",
+    "name": "冰魂震波",
+    "school": "冰霜",
+    "school_id": "irons_spellbooks:ice",
+    "reason": "冰冻、减速属于明确的冰霜机制。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "霜之哀伤",
+    "name": "流浪者军团",
+    "school": "冰霜",
+    "school_id": "irons_spellbooks:ice",
+    "reason": "以冰霜弓手为主体，保留冰霜召唤特色。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "猩红剪刃",
+    "name": "猩红血斩",
+    "school": "猩红",
+    "school_id": "irons_spellbooks:blood",
+    "reason": "血刃与命中恢复生命，使用本体血系。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "影焰剪刃",
+    "name": "影焰斩",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "炼狱承接受诅咒的火焰斩击，保留原影焰状态。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "异界之刃",
+    "name": "追踪剑光",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "炼狱承接持剑者与魔剑技方向；保留四道寻敌剑光及原附加效果，不改成圣光。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "第七星",
+    "name": "星印引爆",
+    "school": "天界",
+    "school_id": "brutality_iron:celestia",
+    "reason": "以天体星光与星印为主题保留星体附着、引爆机制；不接宇宙学派。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "创造折痕",
+    "name": "念动力操纵",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "以空间约束解释抓取、悬持和投掷。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "高频村正",
+    "name": "次元乱斩",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "归持剑者的高阶剑技方向；名字含次元不单独决定归属。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "初始爆炸",
+    "name": "蓄能爆裂",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "长蓄力、大规模毁灭爆裂，补充炼狱重型攻击。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "末日铁拳护手",
+    "name": "火箭拳",
+    "school": "流风",
+    "school_id": "wind_spellbooks:wind",
+    "reason": "核心为气流驱动的突进与动能击退，不按火箭二字归火系。"
+  },
+  {
+    "source_mod": "Brutality",
+    "source": "挑战者深渊/马里亚纳海沟",
+    "name": "深渊追踪弹",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "深渊弹幕与虚无系远程追踪攻击。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "末影换位法杖",
+    "name": "末影换位",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "交换双方空间位置。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "飞升法典",
+    "name": "穿顶升行",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "穿过上方障碍后进行空间转移，不归飞行或岩土。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "反转速度法典",
+    "name": "惯性逆转",
+    "school": "流风",
+    "school_id": "wind_spellbooks:wind",
+    "reason": "改变自身运动方向与速度，作为气流机动法术。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "烈风弹反法典",
+    "name": "烈风退跃",
+    "school": "流风",
+    "school_id": "wind_spellbooks:wind",
+    "reason": "风力推动自身反向位移。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "守卫者魔典",
+    "name": "守护者之手",
+    "school": "岩土",
+    "school_id": "gtbcs_geomancy_plus:geo",
+    "reason": "石质守护构装与固定/旋转能量攻击；不是另一种手持持续棱镜。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "水晶之心",
+    "name": "水晶疗愈阵",
+    "school": "天界",
+    "school_id": "brutality_iron:celestia",
+    "reason": "天界的生命庇护与恢复辅助；不因材质是水晶就归岩土。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "盖亚的恩典",
+    "name": "盖亚催生阵",
+    "school": "自然",
+    "school_id": "irons_spellbooks:nature",
+    "reason": "直接作用植物生长，保留本体自然学派。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "忍者替身",
+    "name": "替身遁形",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "隐去本体并留下假身，补充虚无的脱身能力。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "混沌之心戒指",
+    "name": "追猎印记",
+    "school": "虚无",
+    "school_id": "brutality_iron:nihility",
+    "reason": "目标空间锚定与二段传送。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "燃烧的灵魂指环",
+    "name": "燃魂加速",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "以燃烧自身为代价获得强化，符合炼狱献祭主题。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "传送笛",
+    "name": "归途旋风",
+    "school": "流风",
+    "school_id": "wind_spellbooks:wind",
+    "reason": "旋风作为团队返程通道，延续传送笛外观与机制；仍为待深入核查候选。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "德天使 Virtue",
+    "name": "三重圣裁",
+    "school": "天界",
+    "school_id": "brutality_iron:celestia",
+    "reason": "天使来源、预警后降下圣光柱。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "女巫·喀耳刻 Circe",
+    "name": "冥河游魂",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "冥河与冥界灵魂攻击，作为炼狱灵魂分支。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "女巫·喀耳刻 Circe",
+    "name": "魔仆召集",
+    "school": "唤魔",
+    "school_id": "irons_spellbooks:evocation",
+    "reason": "普通魔法生物召唤，没有足够天界、炼狱或岩土特征，保留本体唤魔。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "魔法师·梅林 Merlin",
+    "name": "冰块投射",
+    "school": "冰霜",
+    "school_id": "irons_spellbooks:ice",
+    "reason": "明确的冰块弹射物。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "试炼守护者",
+    "name": "震慑咆哮",
+    "school": "岩土",
+    "school_id": "gtbcs_geomancy_plus:geo",
+    "reason": "石质守护者的共振震慑，接入岩土控制分支；原代码只有震颤，地裂伤害不凭空添加。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "试炼守护者",
+    "name": "石像卫队",
+    "school": "岩土",
+    "school_id": "gtbcs_geomancy_plus:geo",
+    "reason": "以石像构装为主题的岩土召唤。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "超级嗅探兽",
+    "name": "聚能灵弹",
+    "school": "唤魔",
+    "school_id": "irons_spellbooks:evocation",
+    "reason": "中性聚能攻击，无明确虚无、圣光或炼狱效果，保留本体唤魔。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "超级嗅探兽",
+    "name": "震地威压",
+    "school": "岩土",
+    "school_id": "gtbcs_geomancy_plus:geo",
+    "reason": "地面震动与范围震慑。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "黄昏洛克 Duskrok",
+    "name": "岩躯震击",
+    "school": "岩土",
+    "school_id": "gtbcs_geomancy_plus:geo",
+    "reason": "岩石生物的砸地范围攻击。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "地狱洛克 Hellrok",
+    "name": "炼狱重击",
+    "school": "炼狱",
+    "school_id": "brutality_iron:inferno",
+    "reason": "地狱洛克来源的重击。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "大法师·甘道夫 Gundalf",
+    "name": "疾风乱斩",
+    "school": "流风",
+    "school_id": "wind_spellbooks:wind",
+    "reason": "连续风力突进与风刃斩击。"
+  },
+  {
+    "source_mod": "Terramity",
+    "source": "大法师·甘道夫 Gundalf",
+    "name": "三重邪光",
+    "school": "邪术",
+    "school_id": "irons_spellbooks:eldritch",
+    "reason": "邪光与区域压制，保留本体邪术，不因名称邪恶而强塞炼狱。"
+  }
+]

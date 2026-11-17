@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "brutality_iron:item/armor/masked_fool_leggings"
+  }
+}

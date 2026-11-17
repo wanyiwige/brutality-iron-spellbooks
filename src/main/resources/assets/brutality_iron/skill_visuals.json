@@ -1,0 +1,188 @@
+{
+  "black_hole": {
+    "model": "brutality_iron:geo/ported/brutality/entity/black_hole.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/black_hole.png",
+    "animation": "brutality_iron:animations/ported/brutality/entity/black_hole.animation.json",
+    "clip": "idle"
+  },
+  "cruel_sun": {
+    "model": "brutality_iron:geo/ported/brutality/entity/cruel_sun.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/cruel_sun.png",
+    "animation": "brutality_iron:animations/ported/brutality/entity/cruel_sun.animation.json",
+    "clip": "idle"
+  },
+  "rhongomyniad_ray": {
+    "model": "brutality_iron:geo/ported/brutality/entity/rhongomyniad_ray.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/rhongomyniad_ray.png",
+    "animation": "brutality_iron:animations/ported/brutality/entity/rhongomyniad_ray.animation.json",
+    "clip": "spawn"
+  },
+  "bloodslash": {
+    "model": "brutality_iron:geo/ported/brutality/entity/bloodslash.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/bloodslash.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "shadowflame_slash": {
+    "model": "brutality_iron:geo/ported/brutality/entity/shadowflame_slash.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/shadowflame_slash.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "exoblade_beam": {
+    "model": "brutality_iron:geo/ported/brutality/entity/exoblade_beam.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/exoblade_beam.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "star": {
+    "model": "brutality_iron:geo/ported/brutality/entity/star.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/star.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "abyss_projectile": {
+    "model": "brutality_iron:geo/ported/brutality/entity/abyss_projectile.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/abyss_projectile.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "ice_cube": {
+    "model": "brutality_iron:geo/ported/brutality/entity/ice_cube.geo.json",
+    "texture": "brutality_iron:textures/ported/brutality/entity/ice_cube.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "tg_hand": {
+    "model": "brutality_iron:geo/ported/terramity/tg_hand.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/trial_guardian.png",
+    "animation": "brutality_iron:animations/ported/terramity/tg_hand.animation.json",
+    "clip": "idle"
+  },
+  "holy_beam": {
+    "model": "brutality_iron:geo/ported/terramity/holy_beam.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/holy_beam.png",
+    "animation": "brutality_iron:animations/ported/terramity/holy_beam.animation.json",
+    "clip": "idle"
+  },
+  "stygian_soul": {
+    "model": "brutality_iron:geo/ported/terramity/stygian_soul.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/stygian_soul.png",
+    "animation": "brutality_iron:animations/ported/terramity/stygian_soul.animation.json",
+    "clip": "idle"
+  },
+  "spirit_bomb": {
+    "model": "brutality_iron:geo/ported/terramity/spirit_bomb.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/spirit_bomb.png",
+    "animation": "brutality_iron:animations/ported/terramity/spirit_bomb.animation.json",
+    "clip": "idle"
+  },
+  "decoy": {
+    "model": "brutality_iron:geo/ported/terramity/decoy.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/decoy.png",
+    "animation": "brutality_iron:animations/ported/terramity/decoy.animation.json",
+    "clip": "idle"
+  },
+  "conjurling": {
+    "model": "brutality_iron:geo/ported/terramity/conjurling.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/conjurling.png",
+    "animation": "brutality_iron:animations/ported/terramity/conjurling.animation.json",
+    "clip": "idle"
+  },
+  "dungeon_effigy": {
+    "model": "brutality_iron:geo/ported/terramity/dungeon_effigy.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/dungeon_effigy.png",
+    "animation": "brutality_iron:animations/ported/terramity/dungeon_effigy.animation.json",
+    "clip": "idle"
+  },
+  "acidic_slash": {
+    "model": "brutality_iron:geo/ported/lethality/acidic_slash.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/acidic_slash.png",
+    "animation": "brutality_iron:animations/ported/lethality/acidic_slash.animation.json",
+    "clip": "idle"
+  },
+  "forbidden_scythe": {
+    "model": "brutality_iron:geo/ported/lethality/forbidden_scythe.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/forbidden_scythe.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "devils_scythe": {
+    "model": "brutality_iron:geo/ported/lethality/devils_scythe.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/devils_scythe.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "devils_pitchfork": {
+    "model": "brutality_iron:geo/ported/lethality/devils_pitchfork.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/devils_pitchfork.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "gael_skull": {
+    "model": "brutality_iron:geo/ported/lethality/gael_skull.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/gael_skull.png",
+    "animation": "brutality_iron:animations/ported/lethality/gael_skull_idle.animation.json",
+    "clip": "idle"
+  },
+  "vehemence_bolt": {
+    "model": "brutality_iron:geo/ported/lethality/vehemence_bolt.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/vehemence_bolt.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "hook_model": {
+    "model": "brutality_iron:geo/ported/lethality/hook_model.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/hook.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "starlight_stab": {
+    "model": "brutality_iron:geo/ported/lethality/starlight_stab.geo.json",
+    "texture": "brutality_iron:textures/ported/lethality/entity/starlight_stab_0.png",
+    "animation": "brutality_iron:animations/ported/empty.animation.json",
+    "clip": ""
+  },
+  "meteor": {
+    "model": "brutality_iron:geo/ported/mortality/meteor.geo.json",
+    "texture": "brutality_iron:textures/ported/mortality/entities/meteortexture.png",
+    "animation": "brutality_iron:animations/ported/mortality/meteor.animation.json",
+    "clip": "animation.meteor.idle"
+  },
+  "fire_spirit": {
+    "model": "brutality_iron:geo/ported/mortality/firespirit.geo.json",
+    "texture": "brutality_iron:textures/ported/mortality/entities/firespirittexture.png",
+    "animation": "brutality_iron:animations/ported/mortality/firespirit.animation.json",
+    "clip": "animation.firespirit.idle"
+  },
+  "profane_beam": {
+    "model": "brutality_iron:geo/ported/terramity/holy_beam.geo.json",
+    "texture": "brutality_iron:textures/revision/profane_beam.png",
+    "animation": "brutality_iron:animations/ported/terramity/holy_beam.animation.json",
+    "clip": "idle"
+  },
+  "spirit_bomb_flight": {
+    "model": "brutality_iron:geo/ported/terramity/spirit_bomb.geo.json",
+    "texture": "brutality_iron:textures/ported/terramity/entities/spirit_bomb.png",
+    "animation": "brutality_iron:animations/revision/spirit_bomb_flight.animation.json",
+    "clip": "idle"
+  },
+  "celestial_guard_inner": {
+    "model": "brutality_iron:geo/celestial_guard/inner.geo.json",
+    "texture": "brutality_iron:textures/entity/celestial_guard/rings.png",
+    "animation": "brutality_iron:animations/celestial_guard/rings.animation.json",
+    "clip": "animation.celestia.square_rings"
+  },
+  "celestial_guard_middle": {
+    "model": "brutality_iron:geo/celestial_guard/middle.geo.json",
+    "texture": "brutality_iron:textures/entity/celestial_guard/rings.png",
+    "animation": "brutality_iron:animations/celestial_guard/rings.animation.json",
+    "clip": "animation.celestia.square_rings"
+  },
+  "celestial_guard_outer": {
+    "model": "brutality_iron:geo/celestial_guard/outer.geo.json",
+    "texture": "brutality_iron:textures/entity/celestial_guard/rings.png",
+    "animation": "brutality_iron:animations/celestial_guard/rings.animation.json",
+    "clip": "animation.celestia.square_rings"
+  }
+}

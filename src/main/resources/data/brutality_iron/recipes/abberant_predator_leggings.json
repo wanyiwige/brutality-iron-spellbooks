@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "IBI",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "irons_spellbooks:mithril_weave"
+    },
+    "F": {
+      "item": "terramity:empty_essence"
+    },
+    "I": {
+      "item": "terramity:accursed_soul"
+    },
+    "B": {
+      "item": "irons_spellbooks:shadowwalker_leggings"
+    }
+  },
+  "result": {
+    "item": "brutality_iron:abberant_predator_leggings"
+  }
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "annihilation",
+    "name": "歼灭",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "4f1efb7a00d621d9b93f188595387c406cac3d2dd0c17429e61eff38b774cdc3",
+    "user_approved": true
+  },
+  {
+    "id": "brimspike",
+    "name": "尖刺",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "8fcd548e573a799ef0cd2de754abe414a8dba0abc71899222a7c286114c7f5d1",
+    "user_approved": true
+  },
+  {
+    "id": "chthonic_capsule",
+    "name": "通灵胶囊",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "0a95a5fd4c90613eb343f1cbc06d994c54f64078b52c6a491c957019dfc3202d",
+    "user_approved": true
+  },
+  {
+    "id": "destruction",
+    "name": "毁灭",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "c9cdb309eb01edbbab01fccc3ac495e07ba406ea62a10e91851629588ca5a8ce",
+    "user_approved": true
+  },
+  {
+    "id": "extinction",
+    "name": "消光",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "8a5118105e772d12a65e98e213db9c6bd58ce2cc654aa0e52c42dd321a0c583c",
+    "user_approved": true
+  },
+  {
+    "id": "stygian_step",
+    "name": "冥河步",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "eab3a1617982d5b7e2e01c73867fa05ffb0a43879128acacdbc99fe611c8ead2",
+    "user_approved": true
+  },
+  {
+    "id": "divine_retribution",
+    "name": "神圣报应",
+    "width": 16,
+    "height": 16,
+    "colors": 5,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "c0e33cf009b8c6268355f69d67b28c426c48ca67c154e52f21afdb8067603d95",
+    "user_approved": true
+  },
+  {
+    "id": "heavenly_flight",
+    "name": "天飞",
+    "width": 16,
+    "height": 16,
+    "colors": 5,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "5d204d727aa5b812358b04c691c14e8d1148f42368ca3441a2733bcc22101d6d",
+    "user_approved": true
+  },
+  {
+    "id": "holy_mantle",
+    "name": "圣衣",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "7193b0cabf201d23b5347a265fc7af4e1bd70914edeb5a87bc2698b292f893b6",
+    "user_approved": true
+  },
+  {
+    "id": "light_binding",
+    "name": "光缚",
+    "width": 16,
+    "height": 16,
+    "colors": 6,
+    "opaque": true,
+    "preview_scale": 8,
+    "equal_pixel_blocks": true,
+    "sha256": "5a5d09b38889adb9063dc5d39c8372d30004e2e0c3772c81c2ec3a7bc5786b13",
+    "user_approved": true
+  }
+]

@@ -1,0 +1,484 @@
+{
+  "version": "1.4.0",
+  "source": "pixel-art\\spell-icons-16-review-all53",
+  "count": 53,
+  "icons": [
+    {
+      "id": "brutality_iron:annihilation",
+      "name": "歼灭",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "d2c0c9f16baccc4d328341a6cd21fca8611c8a39fb57517e4c84a9462811c42f"
+    },
+    {
+      "id": "brutality_iron:brimspike",
+      "name": "尖刺",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "d68d290e4fa13574107047ca63882ebdb2a879b4a18581c40440156ef2d931f7"
+    },
+    {
+      "id": "brutality_iron:chthonic_capsule",
+      "name": "通灵胶囊",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "8af4fcf0625b69362332fcd19d577fa6b0fde1710697992cc6c6b289c44d5f09"
+    },
+    {
+      "id": "brutality_iron:destruction",
+      "name": "毁灭",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "74e096a06564c1089cf9ec8c5727a4ccfcd2815ddd28b55f1335ffabc2229e9d"
+    },
+    {
+      "id": "brutality_iron:extinction",
+      "name": "消光",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "1338e25ab7c2372b17d208a2fc2a1ce5f1507229337ab5d7bf2c2660e003b380"
+    },
+    {
+      "id": "brutality_iron:stygian_step",
+      "name": "冥河步",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "4005a22e4ff04fb04fe3c3004119e5d546ffe47b6bb18fa037cee9690a3ee62f"
+    },
+    {
+      "id": "brutality_iron:divine_retribution",
+      "name": "神圣报应",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "2da4fc6db0736abde570073214109e2db939b3dc521a2789749927ff2c4815cb"
+    },
+    {
+      "id": "brutality_iron:heavenly_flight",
+      "name": "天飞",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "ceafb33b1ddc5e52607b3a9d8daea9d6664d313bb9aedd82467ae3be569dd0f4"
+    },
+    {
+      "id": "brutality_iron:holy_mantle",
+      "name": "圣衣",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "03e5609f3edd578ab8c3445a2997eec667316ffc00bab8cddab6874ae60008eb"
+    },
+    {
+      "id": "brutality_iron:light_binding",
+      "name": "光缚",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "d0e0510994eda49c2a37ed91ba19d5c3094c6f760a33af08a8c0e518fd92d098"
+    },
+    {
+      "id": "brutality_iron:sacred_oath",
+      "name": "神圣誓言",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "17a36203715fd96937fb9558eff0e3668fb5cb14cb18ff08f94db7d5bd4a4172"
+    },
+    {
+      "id": "brutality_iron:sacrifice",
+      "name": "牺牲",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "58d327ed67a13486695df84746544931cc0e7ba26327d4da3ecd1b16f9fc82df"
+    },
+    {
+      "id": "brutality_iron:cosmic_cataclysm",
+      "name": "宇宙大灾变",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "aaa8411f88481fd5ca15cd0fc83957ab33d678ad7c15690c68262ef4a428a2f4"
+    },
+    {
+      "id": "brutality_iron:gravitokinesis",
+      "name": "重力运动",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "ecc3871ff8a8a824c6eaece7519484a39113a838ba576092d1a2b5df272da57f"
+    },
+    {
+      "id": "brutality_iron:meteor_shower",
+      "name": "流星雨",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "9935ce162db9159a67cc22154e936c7ca77e81959f67cf968ee862c14d12fedc"
+    },
+    {
+      "id": "brutality_iron:singularity_shift",
+      "name": "奇点偏移",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "44139445d533000786c0b8453365d932f6763a075bbd9bda7d5f1c44adf9a087"
+    },
+    {
+      "id": "brutality_iron:star_burst",
+      "name": "星爆",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "d6f50801ff8c246b8f71ea469b79061db1a5101013f1c5d054eb74054703995e"
+    },
+    {
+      "id": "brutality_iron:star_stream",
+      "name": "星流",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "6ce3b44a68a25181b1b0f771a1fb8d986fea4bd37b71b7c4d70bfe5f617fc46f"
+    },
+    {
+      "id": "brutality_iron:crescent_dart",
+      "name": "新月飞镖",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "6e668f608a48f1ebbf3f312e0fb199c65f27387013ca032ef424ca4a73125b21"
+    },
+    {
+      "id": "brutality_iron:crescent_scythe",
+      "name": "新月之镰",
+      "source_batch": "spell-icons-16-detail-first20",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "dd842c7077cddda90ab777d76d91726723311a36adbff4cc14bfac8634c2d3ce"
+    },
+    {
+      "id": "brutality_iron:duo_lunaris",
+      "name": "双月",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "0091b12e07a21796bf56c4d7971b583f07ead841378a081cc372de86f26350f4"
+    },
+    {
+      "id": "brutality_iron:moonlit_mending",
+      "name": "月光修补",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "b39fb8ab85fddf53e35ef6ae9d36544d2b36b7038c2402fde7738798e0022c8a"
+    },
+    {
+      "id": "brutality_iron:nightfall",
+      "name": "黄昏",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "896d87fa967c7f2e063a8ee9637632f9227bbb796afbf47d47056e025e567d10"
+    },
+    {
+      "id": "brutality_iron:piercing_moonlight",
+      "name": "贯穿月光",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "6d42bf79a70167e8e8a0ea2fccfe69dc9ed0d285527c1fe75eb6be2da1ea1715"
+    },
+    {
+      "id": "brutality_iron:dematerialize",
+      "name": "非物质化",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "19128ed938b8d6f5db9a78347c2eb85bfbd3ff32abc6db71d89a7b84abd060ee"
+    },
+    {
+      "id": "brutality_iron:edge_of_oblivion",
+      "name": "遗忘边缘",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "02caca24dfa0f494406de037865178ec680d6e2acdb08ebdb3935687ba304edb"
+    },
+    {
+      "id": "brutality_iron:gravitic_implosion",
+      "name": "重力内爆",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "59de6a3988ce413c95f741f7b6429601caae8007cdcb71ee1e39d53822e61c2f"
+    },
+    {
+      "id": "brutality_iron:intangible",
+      "name": "无形",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "ef1495f0a02ca80187ffcb914cdd6acebe179ccd846c0567a505cf23523852ac"
+    },
+    {
+      "id": "brutality_iron:spatial_rupture",
+      "name": "空间断裂",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "241216eae599d26747e6393fadf15f7f538490f9a72ea7a1e77d004bc514f1d2"
+    },
+    {
+      "id": "brutality_iron:void_walk",
+      "name": "虚空漫步",
+      "source_batch": "spell-icons-16-detail-third10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "f8a7791c5625638b58dd903a8aaa3608a9aadab2a41c07a107f717ec3eae18c4"
+    },
+    {
+      "id": "brutality_iron:event_horizon",
+      "name": "引力黑洞",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "5682c40a6de96f4936add31d65d761d82adfa784433271344fa594efb30697ad"
+    },
+    {
+      "id": "brutality_iron:cruel_sun",
+      "name": "残酷太阳",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "e9da0916023a3c82c0cde4c86447bb107f8fbcbb94dc4fe565906bd593813535"
+    },
+    {
+      "id": "brutality_iron:seeking_blades",
+      "name": "追踪剑光",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "67e6a07687694bb1fb066abf530b3d84a04b9fb5208147f7e6f8162c582dc84e"
+    },
+    {
+      "id": "brutality_iron:stellar_marks",
+      "name": "星印引爆",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "109c976189270c8325692db752047009df337bba76e0d487adfcc7d2550ccc7f"
+    },
+    {
+      "id": "brutality_iron:gale_fist",
+      "name": "火箭拳",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "b049779710c6d81ee0475bcdd95ce38a0a2f684bdeca20dc8cdda3008e30b5e8"
+    },
+    {
+      "id": "brutality_iron:void_exchange",
+      "name": "末影换位",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "3ae62b6844e08650509695c9168a022817f96c42f7da7fe90ab0d1d6043d5c57"
+    },
+    {
+      "id": "brutality_iron:ceiling_ascent",
+      "name": "穿顶升行",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "5d7f5f9a632d11bbf88158bb05746e47a75add208ee684baf02e3ecc29188259"
+    },
+    {
+      "id": "brutality_iron:inertia_reversal",
+      "name": "惯性逆转",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "61f73e215feed21df0786b26afac777999bbaf4f17dd130751b7a435ea5ee83b"
+    },
+    {
+      "id": "brutality_iron:gale_recoil",
+      "name": "烈风退跃",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "c965cc2ee02e3a7d13a3b31b88649125b3e7216ea7f2556f91edf6bff11c2301"
+    },
+    {
+      "id": "brutality_iron:guardian_hand",
+      "name": "守护者之手",
+      "source_batch": "spell-icons-16-fresh-fourth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "306457fcde688d67ab2a4e543bc2b28b0048e6c8414eeab876903eb23daeac62"
+    },
+    {
+      "id": "brutality_iron:crystal_sanctuary",
+      "name": "水晶疗愈阵",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "fc4e9eb15eee9972fa2f6d6818dd03c5a71b6ab3f16b9b598982f233297ed16f"
+    },
+    {
+      "id": "brutality_iron:triple_judgment",
+      "name": "三重圣裁",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "cd0467be2b284396ffa2e36e4c4c6ff0ae893f023f07a1de141a3c31a50d64a9"
+    },
+    {
+      "id": "brutality_iron:stygian_souls",
+      "name": "冥河游魂",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "21cbe9ba2fe5e621a980944e8d85d82750a71507000b8b8e93a2c6ce775e89c0"
+    },
+    {
+      "id": "brutality_iron:stone_retinue",
+      "name": "石像卫队",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "1252722ad994b4d14e282881d4c81137c7ab72a902e5d84eebcb7d6fca396282"
+    },
+    {
+      "id": "brutality_iron:spirit_bomb",
+      "name": "聚能灵弹",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "0eb8304baab72acb2568b436ba322da89cb6c439e3f1610c6fdf089880621d19"
+    },
+    {
+      "id": "brutality_iron:triple_profane_beam",
+      "name": "三重邪光",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "d4983653945781efd38e1cd7a1fffa6bd6e854779e90691994e26ebaebb4ec23"
+    },
+    {
+      "id": "brutality_iron:caustic_wave",
+      "name": "腐蚀刃波",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "5ee886715db5776a026510f009d589e2c7c905af6bab04904608ea4056dc84e1"
+    },
+    {
+      "id": "brutality_iron:soulreaping_scythes",
+      "name": "追魂魔镰",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "ddb184a1f61e14f5fa0ca94226cde4032e990fc8d11e9a6d991a8d09ada0a79f"
+    },
+    {
+      "id": "brutality_iron:devil_armament",
+      "name": "恶魔兵装",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "ee98d73ecaf142c9f81fd67ed73ab0c46cff1610fb7d88f72173bf3eabfa592e"
+    },
+    {
+      "id": "brutality_iron:starlight_flurry",
+      "name": "星芒连刺",
+      "source_batch": "spell-icons-16-fresh-fifth10",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "f0a18fc1e2559162ee9c3bd572a89c1341b5a86fdbc0d8a65574082610cf79a6"
+    },
+    {
+      "id": "brutality_iron:plague_infusion",
+      "name": "疫病注入",
+      "source_batch": "spell-icons-16-fresh-last3",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "f5c85184e6cb36984729d62db7e71eb9ea217fce8cd4129db31f5e5ebf418367"
+    },
+    {
+      "id": "brutality_iron:pestilent_mist",
+      "name": "疫雾爆发",
+      "source_batch": "spell-icons-16-fresh-last3",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "65e694e648682c41b319cc355758778281a1e23f18a6edc98543df55827c299a"
+    },
+    {
+      "id": "brutality_iron:infernal_spirits",
+      "name": "火灵集群",
+      "source_batch": "spell-icons-16-fresh-last3",
+      "width": 16,
+      "height": 16,
+      "opaque_background": true,
+      "sha256": "7a30e7a6a5335ff50f8fa9fb6889e0037fdeb759b29d3e85837dfe087ca48ea1"
+    }
+  ]
+}

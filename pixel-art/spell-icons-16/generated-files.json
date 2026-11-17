@@ -1,0 +1,26 @@
+[
+  {
+    "id": "annihilation",
+    "name": "歼灭",
+    "school": "brutality_iron:inferno",
+    "source": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-3e0e47c9-d83a-4a79-84f4-074a10fc8355.png"
+  },
+  {
+    "id": "divine_retribution",
+    "name": "神圣报应",
+    "school": "brutality_iron:celestia",
+    "source": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-3dcce140-2828-46cc-9d15-b5cfde73ba7e.png"
+  },
+  {
+    "id": "dematerialize",
+    "name": "非物质化",
+    "school": "brutality_iron:nihility",
+    "source": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-7c1d04e9-3501-4ce4-ac69-6535ed99f629.png"
+  },
+  {
+    "id": "plague_infusion",
+    "name": "疫病注入",
+    "school": "brutality_iron:plague",
+    "source": "C:\\Users\\WANYIWIGE\\.codex\\generated_images\\01a0cc64-8b2f-7313-bb89-7d9655d4fcd7\\exec-10e89951-de32-4ea5-a72d-97413ff05e33.png"
+  }
+]

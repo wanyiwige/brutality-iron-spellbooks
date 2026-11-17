@@ -1,0 +1,274 @@
+[
+  {
+    "source_mod": "Lethality",
+    "source": "Blighted Cleaver / Defiled Greatsword",
+    "name": "腐蚀刃波",
+    "school": "疫病（新建建议）",
+    "effect": "单道或三道穿透斩击，叠加 Acid Venom 和 Hellfire。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/BlightedCleaverItem.java",
+      "lethality/source/net/daphne/lethality/item/custom/DefiledGreatswordItem.java",
+      "lethality/source/net/daphne/lethality/entity/AcidicSlashEntity.java"
+    ],
+    "notes": "合并成同一法术随等级增加弹道；双重毒火状态需保留或明确改造。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Bladecrest / Forbidden / Exalted Oathblade",
+    "name": "追魂魔镰",
+    "school": "炼狱",
+    "effect": "射出追踪/穿透镰刃，附加燃烧与影焰。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/BladecrestOathswordItem.java",
+      "lethality/source/net/daphne/lethality/item/custom/ForbiddenOathbladeItem.java",
+      "lethality/source/net/daphne/lethality/item/custom/ExaltedOathbladeItem.java",
+      "lethality/source/net/daphne/lethality/entity/ForbiddenScytheEntity.java"
+    ],
+    "notes": "系列武器合并成长曲线，不每把剑做一份同质法术。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Devil’s Devastation",
+    "name": "恶魔兵装",
+    "school": "炼狱",
+    "effect": "一次放出三道镰刃和两支叉矛。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/DevilsDevastationItem.java",
+      "lethality/source/net/daphne/lethality/entity/DevilsScytheEntity.java",
+      "lethality/source/net/daphne/lethality/entity/DevilsPitchforkEntity.java"
+    ],
+    "notes": "保留镰刃与叉矛两种形态，与普通影焰斩区分。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Gael’s Greatsword",
+    "name": "灰烬追魂",
+    "school": "炼狱",
+    "effect": "发射三枚寻敌骷髅，接触目标后触发爆裂表现。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/GaelsGreatswordItem.java",
+      "lethality/source/net/daphne/lethality/entity/GaelSkullEntity.java"
+    ],
+    "notes": "需要重写武器攻击力依赖、目标过滤与伤害归属。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Vehemence",
+    "name": "地狱爆弹",
+    "school": "炼狱",
+    "effect": "发射地狱能量弹，命中触发爆裂。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/VehemenceItem.java",
+      "lethality/source/net/daphne/lethality/entity/VehemenceBoltEntity.java"
+    ],
+    "notes": "与灰烬追魂区分弹道及范围；最终可二选一避免重复。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Grievance",
+    "name": "硫火献祭",
+    "school": "炼狱",
+    "effect": "以持续自伤换取攻击强化与吸血。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/GrievanceItem.java",
+      "lethality/source/net/daphne/lethality/potion/BrimstoneFlamesBuffEffect.java",
+      "lethality/source/net/daphne/lethality/client/ModEffectEvents.java"
+    ],
+    "notes": "原自伤效果每 tick 执行，不能原数值照搬；强化和吸血依赖事件，需同时迁移。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Starlight",
+    "name": "星芒连刺",
+    "school": "天界",
+    "effect": "连续生成快速的星光刺击实体。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/StarlightItem.java",
+      "lethality/source/net/daphne/lethality/entity/StarlightStabEntity.java"
+    ],
+    "notes": "穿甲为文本描述，完整伤害类型链仍需检查；不得仅凭文案宣称已实现穿甲法术。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Nightfall",
+    "name": "铁意回生",
+    "school": "天界",
+    "effect": "积攒护盾后开启吸收护盾，再施放将剩余护盾的一部分转为治疗。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/NightfallItem.java",
+      "lethality/source/net/daphne/lethality/events/NightfallEvents.java",
+      "lethality/source/net/daphne/lethality/client/ModEffectEvents.java"
+    ],
+    "notes": "实际依赖 ShieldCharge 累积，不是描述所说的每次固定最大生命 30%；法术可设计独立护盾资源。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Foreign Hook",
+    "name": "拘魂钩索",
+    "school": "虚无",
+    "effect": "投掷钩索命中并拉回敌人。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/ForeignHookItem.java",
+      "lethality/source/net/daphne/lethality/entity/HookEntity.java"
+    ],
+    "notes": "以束缚牵引承接虚无，不增加未证实的穿墙效果。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Pale Branch",
+    "name": "静止庇护",
+    "school": "虚无",
+    "effect": "静止 60 tick 后不断刷新高等级抗性并抵抗击退，移动时解除。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/curios/PaleBranchItem.java"
+    ],
+    "notes": "代码是抗性 V 与击退处理，不能直接描述为对所有伤害绝对免疫；建议有限时或引导。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "Warden Spine",
+    "name": "震动感知",
+    "school": "岩土",
+    "effect": "检测附近移动生物并给予发光标记。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/curios/WardenSpineItem.java"
+    ],
+    "notes": "原范围 50 格；法术化降低初级范围并缩短持续时间。"
+  },
+  {
+    "source_mod": "Lethality",
+    "source": "HF Meowrasama",
+    "name": "刃域加速",
+    "school": "流风",
+    "effect": "进入强化状态，提高自身机动与攻击节奏，同时干扰附近敌人。",
+    "source_paths": [
+      "lethality/source/net/daphne/lethality/item/custom/HFMeowrasamaItem.java",
+      "lethality/source/net/daphne/lethality/potion/BladeModeEffect.java",
+      "lethality/source/net/daphne/lethality/client/BladeModeEvents.java"
+    ],
+    "notes": "需进一步逐项核对攻击速度与减速事件；列第二批，不当成已经完整审完的直接移植项。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "瘟疫武器 / Plague Core",
+    "name": "疫病注入",
+    "school": "疫病（新建建议）",
+    "effect": "对目标施加可累积发作并向附近生物传播的 PLAGUE。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/ToolUsedToAttackProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/PlagueCoreTicksProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/PlagueActivityProcedure.java"
+    ],
+    "notes": "原疫病存在随机增益分支；设计时明确是否保留，不得误称永远只有减益。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Plague Reaper",
+    "name": "疫雾爆发",
+    "school": "疫病（新建建议）",
+    "effect": "击杀触发生成携带疫病的范围效果云。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/PlagueScytheKillsProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/ExplosionAndStainProcedure.java"
+    ],
+    "notes": "原函数主要生成效果云及爆裂粒子，没有直接爆炸伤害；玩家法术化改为主动释放。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Venoshopod",
+    "name": "腐甲连爪",
+    "school": "疫病（新建建议）",
+    "effect": "连爪造成伤害并附加疫病与 Armor Crunch。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/VenoshopodAttackAndSpecialsProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/VenoshopodSuperattackProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/ArmorCrunchStartsProcedure.java"
+    ],
+    "notes": "两套连爪流程合并为等级成长；原破甲过程只针对 ServerPlayer，必须补全普通怪物适用性。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Champion Of Elbram / Spear Of The Champion",
+    "name": "裂核重击",
+    "school": "岩土",
+    "effect": "攻击附加 Shattered Core，降低护甲与最大生命。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/ChampionOfElbramAttacksProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/ToolUsedToAttackProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/ShatteredCoreStartsProcedure.java"
+    ],
+    "notes": "原减属性过程只支持 ServerPlayer；玩家法术需要针对 LivingEntity 改写并设 Boss 上限。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Infernal Core",
+    "name": "火灵集群",
+    "school": "炼狱",
+    "effect": "生成多只 Fire Spirit，由其自身流程持续活动。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/FurnaceCoreAttacksProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/FurnaceCoreMechanicProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/FireSpiritOnEntityTickUpdateProcedure.java"
+    ],
+    "notes": "移植需改阵营、主人和寿命，不能把原敌对实体原样当友方召唤。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Dawnmaker",
+    "name": "晨曦三叠",
+    "school": "天界",
+    "effect": "攻击积累 Dawn 状态，满足条件后触发额外打击。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/DawnmakerAttackProcedureProcedure.java"
+    ],
+    "notes": "改为短连段或印记叠层法术，保留原日光特效；触发时序需要运行测试。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Dawn Devestated",
+    "name": "蚀月蓄击",
+    "school": "虚无",
+    "effect": "攻击积累 Fading Fate，满足条件后消耗层数进行强化打击。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/DawnUnmadeSpecialSequenceProcedure.java"
+    ],
+    "notes": "以月蚀与命运消散承接虚无；不要与已移植的月系法术仅换名重复。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Deliverance onto a New World",
+    "name": "陨星蓄放",
+    "school": "天界",
+    "effect": "积累 Deliverance 层数，释放时按层数生成 Meteor。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/DeliveranceProcProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/DeliveranceSummonsMeteorsProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/MeteorTicksProcedure.java"
+    ],
+    "notes": "已有流星雨，应强调命中蓄层后一次释放；最终保留与否需去重。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Rächer of Solnari",
+    "name": "生命契约",
+    "school": "猩红（本体）",
+    "effect": "以降低最大生命为代价增加攻击力，叠层增加收益与代价。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/RacherUseProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/BondOfLifeAppliedProcedure.java",
+      "mortality/source/net/mcreator/mortality/procedures/BondOfLifeExpiresProcedure.java"
+    ],
+    "notes": "保留本体猩红；所有属性在结束、死亡、离线后需正确恢复。"
+  },
+  {
+    "source_mod": "Mortality",
+    "source": "Iridium Dreamtwister + Power Over Revival",
+    "name": "梦境唤回",
+    "school": "天界",
+    "effect": "消耗复苏道具，寻找附近旁观玩家，并在演出后改为生存模式。",
+    "source_paths": [
+      "mortality/source/net/mcreator/mortality/procedures/DreamtwisterRightclickProcedure.java"
+    ],
+    "notes": "原逻辑不是通用死亡复活系统；不应直接改变正常旁观管理玩家的模式，暂缓正式移植。"
+  }
+]

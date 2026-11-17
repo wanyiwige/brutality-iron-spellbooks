@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "brutality_iron_school_books",
+  "conditions": [
+    {
+      "type": "forge:item_exists",
+      "item": "brutality_iron:darkist_tome"
+    }
+  ],
+  "pattern": [
+    "IFI",
+    "CBC",
+    "IFI"
+  ],
+  "key": {
+    "I": {
+      "item": "terramity:dimlite_ingot"
+    },
+    "F": {
+      "item": "terramity:warden_soul"
+    },
+    "C": {
+      "item": "terramity:black_matter"
+    },
+    "B": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "brutality_iron:darkist_tome",
+    "count": 1
+  }
+}

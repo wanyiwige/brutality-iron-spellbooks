@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.meteor.idle": {
+			"animation_length": 2.375,
+			"bones": {
+				"MeteorHead": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [147.5, 0, 0]
+						},
+						"2.0": {
+							"vector": [315, 0, 0]
+						},
+						"2.3333": {
+							"vector": [360, 0, 0]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

@@ -1,0 +1,106 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 192,
+				"texture_height": 192,
+				"visible_bounds_width": 308,
+				"visible_bounds_height": 117,
+				"visible_bounds_offset": [0, 0.5, 0]
+			},
+			"bones": [
+				{
+					"name": "main",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "cube",
+					"parent": "main",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{
+							"origin": [-16, -16, -16],
+							"size": [32, 32, 32],
+							"uv": {
+								"north": {"uv": [95, 96], "uv_size": [1, 1]},
+								"east": {"uv": [95, 96], "uv_size": [1, 1]},
+								"south": {"uv": [95, 96], "uv_size": [1, 1]},
+								"west": {"uv": [95, 96], "uv_size": [1, 1]},
+								"up": {"uv": [96, 97], "uv_size": [-1, -1]},
+								"down": {"uv": [96, 97], "uv_size": [-1, -1]}
+							}
+						},
+						{
+							"origin": [17.25, 17.25, 17.25],
+							"size": [-34.5, -34.5, -34.5],
+							"uv": {
+								"north": {"uv": [95, 112], "uv_size": [1, -15], "uv_rotation": 180},
+								"east": {"uv": [95, 112], "uv_size": [1, -15], "uv_rotation": 180},
+								"south": {"uv": [95, 112], "uv_size": [1, -15], "uv_rotation": 180},
+								"west": {"uv": [95, 112], "uv_size": [1, -15], "uv_rotation": 180},
+								"up": {"uv": [96, 97], "uv_size": [-1, 1], "uv_rotation": 180},
+								"down": {"uv": [96, 111], "uv_size": [-1, 1], "uv_rotation": 180}
+							}
+						}
+					]
+				},
+				{
+					"name": "ring1",
+					"parent": "main",
+					"pivot": [0, -1.005, 0],
+					"cubes": [
+						{
+							"origin": [-1, -50, -48],
+							"size": [0, 96, 96],
+							"inflate": 0.1,
+							"pivot": [-1, -1, 0],
+							"rotation": [0, 0, -90],
+							"uv": {
+								"east": {"uv": [96, 0], "uv_size": [-96, 96]},
+								"west": {"uv": [0, 0], "uv_size": [96, 96]}
+							}
+						}
+					]
+				},
+				{
+					"name": "ring2",
+					"parent": "main",
+					"pivot": [0, -5.005, 0],
+					"cubes": [
+						{
+							"origin": [0, -87, -82],
+							"size": [0, 164, 164],
+							"inflate": 0.1,
+							"pivot": [0, -5, 0],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"east": {"uv": [96, 96], "uv_size": [96, 96]},
+								"west": {"uv": [192, 96], "uv_size": [-96, 96]}
+							}
+						}
+					]
+				},
+				{
+					"name": "ring3",
+					"parent": "main",
+					"pivot": [0, 1.99, 0],
+					"cubes": [
+						{
+							"origin": [3, -131, -128],
+							"size": [0, 256, 256],
+							"inflate": 0.1,
+							"pivot": [0, -3, 0],
+							"rotation": [0, 0, 90],
+							"uv": {
+								"east": {"uv": [96, 0], "uv_size": [96, 96]},
+								"west": {"uv": [192, 0], "uv_size": [-96, 96]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

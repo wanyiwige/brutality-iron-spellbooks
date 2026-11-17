@@ -1,0 +1,12 @@
+[
+  {
+    "id": "column_eldritch",
+    "path": "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/pixel-art/spell-revision-v2/preview/column_eldritch@6x.png",
+    "prompt": "Edit this beam sprite: preserve its existing color theme and crisp low-resolution style, but make it a substantial FULL-WIDTH light column rather than a very thin wire. One flat16x64 logical pixel sprite, transparent background. The energy column must occupy 10-12 of the16 logical pixels width for at least half its height. Draw visible thick vertical 4-6pixel core with 2-3pixel broken side bands, powerful vertical pillar of energy. Crisp 1logicalpixel stair steps only, no blur, bloom, antialiasing. No labels, no floor circle, no background. All changes confined to the single sprite. Preserve black-plum purple structure, pale sickly ivory core, violet rune-like block fragments. Upper/lower ends taper but middle width is clear. Strong dark outline structure, haunting luminous cream accents."
+  },
+  {
+    "id": "column_holy",
+    "path": "D:/game/PCL/.minecraft/versions/All the Iron's Spellbooks/brutality-iron-spellbooks/pixel-art/spell-revision-v2/preview/column_holy@6x.png",
+    "prompt": "Edit this beam sprite: preserve its existing color theme and crisp low-resolution style, but make it a substantial FULL-WIDTH light column rather than a very thin wire. One flat16x64 logical pixel sprite, transparent background. The energy column must occupy 10-12 of the16 logical pixels width for at least half its height. Draw visible thick vertical 4-6pixel core with 2-3pixel broken side bands, powerful vertical pillar of energy. Crisp 1logicalpixel stair steps only, no blur, bloom, antialiasing. No labels, no floor circle, no background. All changes confined to the single sprite. Preserve warm gold and cream color scheme. Bright cream central shaft with blocky golden side streaks and diamond-shaped sparks. Wide enough to read as a striking column, not a bolt or thread."
+  }
+]

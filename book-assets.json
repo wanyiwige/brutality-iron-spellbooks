@@ -1,0 +1,44 @@
+[
+  {
+    "id": "brutality_iron:daemonic_tome",
+    "school": "bielgg_spells:shadow",
+    "selected_source": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\generated-art\\brutality-iron-tomes\\final\\恶魔魔典\\daemonic_tome_inventory.png",
+    "texture_sha256": "1698e4a0fe5c50c75c4b0413787c0084e1c16260f3ef8eba3b5e81e9dedd142c",
+    "original_model": "brutality:item/tome/daemonic_tome_handheld"
+  },
+  {
+    "id": "brutality_iron:darkist_tome",
+    "school": "echo_spellbooks:echo",
+    "selected_source": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\generated-art\\brutality-iron-tomes\\final\\幽匿学派魔法书\\darkist_tome_inventory.png",
+    "texture_sha256": "13775cb5c3ecc2675ecfdd61efabe1168f4266ad0cdb45de44663c58ecd536e2",
+    "original_model": "brutality:item/tome/darkist_tome_handheld"
+  },
+  {
+    "id": "brutality_iron:cosmic_tome",
+    "school": "alex_caves_spellsbook:hazen_cosmic",
+    "selected_source": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\generated-art\\brutality-iron-tomes\\cosmic-v2-animated-stars\\cosmic_tome_inventory.png",
+    "texture_sha256": "33e2cdcc84675acf0c7380853228a6bfd682562cf025098e87384ccc616c1d92",
+    "original_model": "brutality:item/tome/cosmic_tome_handheld"
+  },
+  {
+    "id": "brutality_iron:void_tome",
+    "school": "brutality_iron:nihility",
+    "selected_source": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\generated-art\\brutality-iron-tomes\\final\\虚空魔典\\void_tome_inventory.png",
+    "texture_sha256": "0050b8903b3c4e9b55fa86c5e746964a5e3b483d84bf48f75c99628e2c687876",
+    "original_model": "brutality:item/tome/void_tome_handheld"
+  },
+  {
+    "id": "brutality_iron:brimwielder_tome",
+    "school": "brutality_iron:inferno",
+    "selected_source": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\generated-art\\brutality-iron-tomes\\brimwielder-v2-animated-fire\\brimwielder_tome_inventory.png",
+    "texture_sha256": "62b58725cd40bb81db3d0062a9afb8d7e8ada343114c8f2029f7b1b088de3d0d",
+    "original_model": "brutality:item/tome/brimwielder_tome_handheld"
+  },
+  {
+    "id": "brutality_iron:celestia_tome",
+    "school": "brutality_iron:celestia",
+    "selected_source": "D:\\game\\PCL\\.minecraft\\versions\\All the Iron's Spellbooks\\generated-art\\brutality-iron-tomes\\celestia-v8-halo-only\\celestia_tome_inventory.png",
+    "texture_sha256": "ed53d1a25afd0015f8a60ec9a9b5337d3ca25ac89f199b8d29709594e8ed9b86",
+    "original_model": "brutality:item/tome/celestia_tome_handheld"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\circle_crystal.png",
+    "target": "assets/brutality_iron/textures/revision/circle_crystal.png",
+    "sha256": "41c120d589a0f3e3e0373512d1e16a84ed13c1c18770706074bb0599ec514d42"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\circle_crystal_frames.png",
+    "target": "assets/brutality_iron/textures/revision/circle_crystal_frames.png",
+    "sha256": "76dab49a737b04c93419ab7b8b8f8e4dfab7caedd9fb707163b06d4dc5efe334"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\circle_eldritch.png",
+    "target": "assets/brutality_iron/textures/revision/circle_eldritch.png",
+    "sha256": "41d8f27fd30833e40c0f03502ba03f791954c84c8d1f468fd6d9651c125548d6"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\circle_eldritch_frames.png",
+    "target": "assets/brutality_iron/textures/revision/circle_eldritch_frames.png",
+    "sha256": "f935de538ef63e66cac02a29d745767c2a9b89eb7f67884dc4ccea58e7bc38af"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\circle_nature.png",
+    "target": "assets/brutality_iron/textures/revision/circle_nature.png",
+    "sha256": "98dd4c6ba17dc17692467b5bef5c432096127c834c8d3874e66a68ebcff75d03"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\circle_nature_frames.png",
+    "target": "assets/brutality_iron/textures/revision/circle_nature_frames.png",
+    "sha256": "a7ce8ed170277e28bb287192487ab78d90ee2fc5b2e6545a98cc3cd9f5a8340f"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\column_eldritch.png",
+    "target": "assets/brutality_iron/textures/revision/column_eldritch.png",
+    "sha256": "359220d18215d74a23cbcbfd941b133fc96306c280b0637efd1eadda46b5cf95"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\column_holy.png",
+    "target": "assets/brutality_iron/textures/revision/column_holy.png",
+    "sha256": "ed16efb3c54cf00f7fef544adc0beacc5cf4aaec21eb5f851690fffec0dadb14"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\inferno_impact.png",
+    "target": "assets/brutality_iron/textures/revision/inferno_impact.png",
+    "sha256": "c34568905d8706fb999cb75b70dd6bbd86d2343031f3d88e6775d13b7cbd3596"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\plague_claws.png",
+    "target": "assets/brutality_iron/textures/revision/plague_claws.png",
+    "sha256": "754a03ec44e12a8dd64d880388ac7dfc54d0f0940e14ea4c9881dfadb13a460d"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\plague_cloud.png",
+    "target": "assets/brutality_iron/textures/revision/plague_cloud.png",
+    "sha256": "952d4d683de061921399313e9a40a61ae8dbf3a436f7624dd771c72a6325b260"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\plague_cloud_frames.png",
+    "target": "assets/brutality_iron/textures/revision/plague_cloud_frames.png",
+    "sha256": "a127ebf72c54b7249c568123231f2f632707f5a21d6dd045c0a89da306c28759"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\plague_wave.png",
+    "target": "assets/brutality_iron/textures/revision/plague_wave.png",
+    "sha256": "493a5b81bded6ae261ab82b1c3e1b5310e0e8dc7e31980101ddca0f3f35673b2"
+  },
+  {
+    "source": "pixel-art\\spell-revision-v2\\native\\shadowflame_slash.png",
+    "target": "assets/brutality_iron/textures/revision/shadowflame_slash.png",
+    "sha256": "fc8d381ffb6c5a74d8d98f9891a9efe5c7f23dceed041da0894edc2087f773c3"
+  },
+  {
+    "source": "assets/brutality/textures/entity/black_hole.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/black_hole.png",
+    "sha256": "246d62080d0509285790a61b69c2b54ad182b5a0cc553588ac53447849344c3d"
+  },
+  {
+    "source": "assets/brutality/textures/entity/black_hole_fbnd.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/black_hole_fbnd.png",
+    "sha256": "6448c110b5de0e9ec21c81f6a275bf0db8494242a34650a617924d475f7e31ec"
+  },
+  {
+    "source": "assets/brutality/textures/entity/cruel_sun.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/cruel_sun.png",
+    "sha256": "2d8bc26b04c70e408607f298b2e9b04f610190e25843c85767a9f72c13783eca"
+  },
+  {
+    "source": "assets/brutality/textures/entity/cruel_sun_fba.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/cruel_sun_fba.png",
+    "sha256": "7759b5d1abe240ee0247e483d879ae02ca91c40bd4d4bf348e1ad6350aa4a1f6"
+  },
+  {
+    "source": "assets/brutality/textures/entity/cruel_sun_fbnd.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/cruel_sun_fbnd.png",
+    "sha256": "801ab947c991d151e965e335f1120cb97db9f2cd4881692c5e8ee64dc537e26b"
+  },
+  {
+    "source": "lethality:forbidden_scythe:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/forbidden_scythe.png",
+    "sha256": "52ce9a7bd003119e62901e7b3234a0118482df95d77308fbf7e4213ca074529b"
+  },
+  {
+    "source": "lethality:devils_scythe:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/devils_scythe.png",
+    "sha256": "f86e18e9c7b69e128814c15abca94d235563d9c3c352121d3ab75dd1d29f4b7a"
+  },
+  {
+    "source": "lethality:devils_pitchfork:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/devils_pitchfork.png",
+    "sha256": "5a7d373d0bb00017810890c3aaf56c7ea57ae08531e0ba0d0e98cf8d80d2a682"
+  },
+  {
+    "source": "lethality:starlight_stab_0:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_0.png",
+    "sha256": "1288496665114f574e6101706421c2352b828e825c8b8b22a5cb99247a75bd3a"
+  },
+  {
+    "source": "lethality:starlight_stab_1:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_1.png",
+    "sha256": "87a59d805249e73677f8df3ab06c63987aed5a97ba19307a8cd00514e7be5470"
+  },
+  {
+    "source": "lethality:starlight_stab_2:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_2.png",
+    "sha256": "f0bf6273d5d96974754686c45cb5d2087036ab74f7111932c442c87541928ca6"
+  },
+  {
+    "source": "lethality:starlight_stab_3:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_3.png",
+    "sha256": "a3ef0f2b709f1c93c9d9536be69cbcdb889f336fa3cedf6a2cbee7949cd6d80f"
+  },
+  {
+    "source": "lethality:starlight_stab_4:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_4.png",
+    "sha256": "d68e4e42d7381a1e9dfe4ae947c0938abc1d1fb3d641a3984c322b8e8b64c0c9"
+  },
+  {
+    "source": "lethality:starlight_stab_5:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_5.png",
+    "sha256": "a45fbe9a50d63a7852fc82780eed8833bd1e97ad5bfa8cf3048f24a0e2bf1ba7"
+  },
+  {
+    "source": "lethality:starlight_stab_6:left_uv_half",
+    "target": "assets/brutality_iron/textures/revision/starlight_stab_6.png",
+    "sha256": "3e1c1b1ffd3662978f810e6a3057da8886c504915fbb1a6b2d88084fb02b913c"
+  },
+  {
+    "source": "brutality:exoblade_beam",
+    "target": "assets/brutality_iron/textures/revision/exoblade_beam.png",
+    "sha256": "731c22c18635b3a2bf150a67734a601289d3fffec5d0ff40b9969f6d8478300c"
+  }
+]

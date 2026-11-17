@@ -1,0 +1,38 @@
+[
+  {
+    "number": 51,
+    "id": "plague_infusion",
+    "name": "疫病注入",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 12,
+    "old_art_inputs": [],
+    "sha256": "f5c85184e6cb36984729d62db7e71eb9ea217fce8cd4129db31f5e5ebf418367"
+  },
+  {
+    "number": 52,
+    "id": "pestilent_mist",
+    "name": "疫雾爆发",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 9,
+    "old_art_inputs": [],
+    "sha256": "65e694e648682c41b319cc355758778281a1e23f18a6edc98543df55827c299a"
+  },
+  {
+    "number": 53,
+    "id": "infernal_spirits",
+    "name": "火灵集群",
+    "width": 16,
+    "height": 16,
+    "opaque": true,
+    "equal_pixel_blocks": true,
+    "colors": 10,
+    "old_art_inputs": [],
+    "sha256": "7a30e7a6a5335ff50f8fa9fb6889e0037fdeb759b29d3e85837dfe087ca48ea1"
+  }
+]

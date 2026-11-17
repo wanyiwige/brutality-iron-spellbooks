@@ -1,0 +1,207 @@
+{
+  "assets/brutality_iron/geo/armor/blazeborne.geo.json": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/geo/armor/blazeborne_armor.geo.json",
+    "sha256": "7b062ca4a547b1d6fa966aa3a19b62d482b59184dd02a6fff59826e413cb0468"
+  },
+  "assets/brutality_iron/textures/armor/blazeborne.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/armor/blazeborne_armor.png",
+    "sha256": "b236edfd3e7eed410380f044dd78cd7c27ccf539c8b0686eea7f695a630bb59b"
+  },
+  "assets/brutality_iron/animations/armor/blazeborne.animation.json": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/animations/armor/blazeborne_armor.animation.json",
+    "sha256": "c1521bd09f1a7000d077fbdd0a3f4e9bf41abf37ee1490907dafbdd0e489e0d9"
+  },
+  "assets/brutality_iron/textures/item/armor/blazeborne_helmet.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/blazeborne_helmet.png",
+    "sha256": "6bd29700a13465b00296467a312412f65b0464e90930cf632f83e8c77214e1e7"
+  },
+  "assets/brutality_iron/textures/item/armor/blazeborne_chestplate.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/blazeborne_chestplate.png",
+    "sha256": "c9c098e8a24b41220a34b5d57f3d407af37b228feceb9087f9fdcff737f1a568"
+  },
+  "assets/brutality_iron/textures/item/armor/blazeborne_leggings.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/blazeborne_leggings.png",
+    "sha256": "9df7c80dec99b3017841ae6a0f4ef5fe8a0dd326c061c73652d8f8ddfa5d521c"
+  },
+  "assets/brutality_iron/textures/item/armor/blazeborne_boots.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/blazeborne_boots.png",
+    "sha256": "585481025abf40c9492413e37c5c22549d5bd529c07407a344b058616d492ab8"
+  },
+  "assets/brutality_iron/geo/armor/seraph.geo.json": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/geo/armor/seraph_armor.geo.json",
+    "sha256": "3e9e3045d45a523f0788808373bc46f0c4703c550cc97435029d52cf7885e48e"
+  },
+  "assets/brutality_iron/textures/armor/seraph.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/armor/seraph_armor.png",
+    "sha256": "5722719801f8bd2fbb0d2ebaafd9135ff47b16725d657ec459326bd5b52f552b"
+  },
+  "assets/brutality_iron/animations/armor/seraph.animation.json": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/animations/armor/seraph_armor.animation.json",
+    "sha256": "b996a25446c79aa761c22df98fb84cfffc83eebdaf4eb670c9009c7e14737b5a"
+  },
+  "assets/brutality_iron/textures/item/armor/seraph_helmet.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/seraph_helmet.png",
+    "sha256": "6d60a8611078d3eee8f416931607c408f5094e8097e3d083be10a0f223870211"
+  },
+  "assets/brutality_iron/textures/item/armor/seraph_chestplate.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/seraph_chestplate.png",
+    "sha256": "84de9eee5dc3360c35950b0721335a32830a03c23abcb2b783fa5aceeb44f168"
+  },
+  "assets/brutality_iron/textures/item/armor/seraph_leggings.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/seraph_leggings.png",
+    "sha256": "a0b20b7c822901514df74d8553b6dc8ef27c8928dc71f660fc8105c2c1c15c64"
+  },
+  "assets/brutality_iron/textures/item/armor/seraph_boots.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/item/armor_icons/seraph_boots.png",
+    "sha256": "6ba73465f79bd0244e9be16cfc2548db2b8e34accbefce3b012ab6bf9445b3db"
+  },
+  "assets/brutality_iron/geo/armor/gabriel_ultrakill.geo.json": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/geo/hazen_added/armor/gabriel_ultrakill_armor.geo.json",
+    "sha256": "eb2b08f7ee85caa26219cebfd2622e22f84fad552ac15a16cabdb3b31c0ff52b"
+  },
+  "assets/brutality_iron/textures/armor/gabriel_ultrakill.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/armor/gabriel_ultrakill_armor.png",
+    "sha256": "4118619f17031930a602090a4977d5b192ff7a6f1629a40c40265265ca20d650"
+  },
+  "assets/brutality_iron/animations/armor/gabriel_ultrakill.animation.json": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/animations/hazen_added/armor/gabriel_ultrakill_armor.animation.json",
+    "sha256": "9f1bda9b145044ee542cc669787b3c6111719b05452ae18db46950135e51bdf8"
+  },
+  "assets/brutality_iron/textures/item/armor/gabriel_ultrakill_helmet.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/gabriel_ultrakill_helmet.png",
+    "sha256": "91b27a69a087ba004a0631b39e1037756b23f0ff08f57a87df1f2f3f0afd04ce"
+  },
+  "assets/brutality_iron/textures/item/armor/gabriel_ultrakill_chestplate.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/gabriel_ultrakill_chestplate.png",
+    "sha256": "9d5986e28377848abb65edbed4642221f10a58ad59c2edd1d8bd85f34015439b"
+  },
+  "assets/brutality_iron/textures/item/armor/gabriel_ultrakill_leggings.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/gabriel_ultrakill_leggings.png",
+    "sha256": "30e26e01be8ec495a60139bd649f749d4face2ba8b7d4bde1777ac5c45e6bdf8"
+  },
+  "assets/brutality_iron/textures/item/armor/gabriel_ultrakill_boots.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/gabriel_ultrakill_boots.png",
+    "sha256": "f3de9ddc80b6d6e9a0c39637b52b6ff358729ca3d162aef4ec9ff8af03115b15"
+  },
+  "assets/brutality_iron/geo/armor/abberant_predator.geo.json": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/geo/hazen_added/armor/abberant_predator_armor.geo.json",
+    "sha256": "febaf68ad8759adc30e99125b20e7afbf8a90dc2fb60992e2ef7cbf621e47c5e"
+  },
+  "assets/brutality_iron/textures/armor/abberant_predator.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/armor/abberant_predator_armor.png",
+    "sha256": "4226750ff318cc846779bd11c0c4d54a945507f2249ff606e5865f19648c7287"
+  },
+  "assets/brutality_iron/textures/item/armor/abberant_predator_helmet.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/abberant_predator_helmet.png",
+    "sha256": "97330331bf424cfee1a259d8639f0e1ce3376929a337b24dca8632ca26179ab8"
+  },
+  "assets/brutality_iron/textures/item/armor/abberant_predator_chestplate.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/abberant_predator_chestplate.png",
+    "sha256": "fcbe90f9ca5c87cab1c997913a4ce4bbb64bb829851b7a4ef98af982156b6433"
+  },
+  "assets/brutality_iron/textures/item/armor/abberant_predator_leggings.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/abberant_predator_leggings.png",
+    "sha256": "03831ef7265ef188a8d4bd771e472f504bc6916930d252ccee102c6f7afcf6f4"
+  },
+  "assets/brutality_iron/textures/item/armor/abberant_predator_boots.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/abberant_predator_boots.png",
+    "sha256": "de3978b45e4703ae8ad02f9dacce4e7dd8768e8206777950de9d13d73d3dc1e2"
+  },
+  "assets/brutality_iron/geo/armor/masked_fool.geo.json": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/geo/hazen_added/armor/masked_fool_armor.geo.json",
+    "sha256": "34daf23b6da9752523228630bca48c2c57cb2fb49cfda12eb40e4c686e9688b9"
+  },
+  "assets/brutality_iron/textures/armor/masked_fool.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/armor/masked_fool_armor.png",
+    "sha256": "88094a9130e5e6d85ee154bfab53d7fb28cece4fac3e8a87fe2da3802b291f29"
+  },
+  "assets/brutality_iron/textures/item/armor/masked_fool_helmet.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/masked_fool_helmet.png",
+    "sha256": "f5349f13a76533cce38c634b11931338415dcb072c199a993318e1e7e2c0dea3"
+  },
+  "assets/brutality_iron/textures/item/armor/masked_fool_chestplate.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/masked_fool_chestplate.png",
+    "sha256": "f5d6f0d462a59625c8e7f5db6f6bf1f2fc91c40632f148977a171e0b54191f96"
+  },
+  "assets/brutality_iron/textures/item/armor/masked_fool_leggings.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/masked_fool_leggings.png",
+    "sha256": "cf76f49937e9892ed7ee607a72597f6a39b2eb4781ec9d4f298d346317cc8fed"
+  },
+  "assets/brutality_iron/textures/item/armor/masked_fool_boots.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/masked_fool_boots.png",
+    "sha256": "55992d375450aafd0f81122328f29a6bce30155edc72871c94821853ae7cb2ae"
+  },
+  "assets/brutality_iron/geo/armor/shadow_jester.geo.json": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/geo/hazen_added/armor/shadow_jester_armor.geo.json",
+    "sha256": "ffa69b31f751b407953a22b446270b58f4f14c6157aa59ed287fcc7983c10d27"
+  },
+  "assets/brutality_iron/textures/armor/shadow_jester.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/armor/shadow_jester_armor.png",
+    "sha256": "0843ec006b492a727c084c844b4f4d9bc6bf5c6a69c9992f425f0a1cf7f13723"
+  },
+  "assets/brutality_iron/textures/item/armor/shadow_jester_helmet.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/shadow_jester_helmet.png",
+    "sha256": "2bd2dc0ece1ff09863047f9775b972628d5a7c802c3eddfc93960af49af4e62e"
+  },
+  "assets/brutality_iron/textures/item/armor/shadow_jester_chestplate.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/shadow_jester_chestplate.png",
+    "sha256": "2df1b6f8608f7ed560cfaa5653862deda757b73d0434eed8e6746ee2072923be"
+  },
+  "assets/brutality_iron/textures/item/armor/shadow_jester_leggings.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/shadow_jester_leggings.png",
+    "sha256": "0c6e765b393453401f1237510cb9a709cf53a6febf0ac696292a0ce2608665e3"
+  },
+  "assets/brutality_iron/textures/item/armor/shadow_jester_boots.png": {
+    "source_jar": "wans_iron_expansion-1.2.9-illusionist.3-pure-darkness-dev.16-hazen-armor.2.jar",
+    "source": "assets/alex_caves_spellsbook/textures/hazen_added/item/armors/shadow_jester_boots.png",
+    "sha256": "7909b94999fdf7edf705ef9158eab15596cdbaf3c53c60f05c0010de5099ebaa"
+  },
+  "assets/brutality_iron/textures/armor/blazeborne_layer.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/armor/blazeborne_armor_layer.png",
+    "sha256": "59ad769862f94ec1852f9fae1697f6ed9877c5928a35c4633693a163ace8c3de"
+  },
+  "assets/brutality_iron/textures/armor/seraph_layer.png": {
+    "source_jar": "hazennstuff-watered-down-edition-1.1.2.jar",
+    "source": "assets/hazennstuff/textures/armor/seraph_armor_layer.png",
+    "sha256": "7e6c240dd87d24fe8cc87adb362347bc85e08cada14129cb7caa072834e00b43"
+  }
+}

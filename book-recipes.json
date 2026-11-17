@@ -1,0 +1,80 @@
+[
+  {
+    "recipe": "brutality_iron:daemonic_tome",
+    "book": "恶魔魔典",
+    "primary": "terramity:daemonium",
+    "focus": "terramity:accursed_soul",
+    "binding": "terramity:black_matter",
+    "counts": {
+      "primary": 4,
+      "focus": 2,
+      "binding": 2,
+      "minecraft:book": 1
+    }
+  },
+  {
+    "recipe": "brutality_iron:darkist_tome",
+    "book": "黑暗之书",
+    "primary": "terramity:dimlite_ingot",
+    "focus": "terramity:warden_soul",
+    "binding": "terramity:black_matter",
+    "counts": {
+      "primary": 4,
+      "focus": 2,
+      "binding": 2,
+      "minecraft:book": 1
+    }
+  },
+  {
+    "recipe": "brutality_iron:cosmic_tome",
+    "book": "宇宙魔典",
+    "primary": "terramity:cosmilite_ingot",
+    "focus": "terramity:energized_core",
+    "binding": "terramity:black_matter",
+    "counts": {
+      "primary": 4,
+      "focus": 2,
+      "binding": 2,
+      "minecraft:book": 1
+    }
+  },
+  {
+    "recipe": "brutality_iron:void_tome",
+    "book": "虚空魔典",
+    "primary": "terramity:void_alloy",
+    "focus": "terramity:empty_essence",
+    "binding": "terramity:black_matter",
+    "counts": {
+      "primary": 4,
+      "focus": 2,
+      "binding": 2,
+      "minecraft:book": 1
+    }
+  },
+  {
+    "recipe": "brutality_iron:brimwielder_tome",
+    "book": "持剑者宝典",
+    "primary": "terramity:daemonium",
+    "focus": "terramity:chthonic_crystal",
+    "binding": "terramity:black_matter",
+    "counts": {
+      "primary": 4,
+      "focus": 2,
+      "binding": 2,
+      "minecraft:book": 1
+    }
+  },
+  {
+    "recipe": "brutality_iron:celestia_tome",
+    "book": "塞拉斯蒂娅之书",
+    "primary": "terramity:reverium",
+    "focus": "terramity:angel_feather",
+    "binding": "terramity:cosmilite_ingot",
+    "counts": {
+      "primary": 4,
+      "focus": 2,
+      "binding": 2,
+      "minecraft:book": 1
+    }
+  }
+]

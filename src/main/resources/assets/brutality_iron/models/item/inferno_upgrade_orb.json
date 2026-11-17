@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "brutality_iron:item/inferno_upgrade_orb"
+  }
+}

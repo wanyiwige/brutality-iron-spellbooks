@@ -1,0 +1,121 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"idle": {
+			"loop": true,
+			"animation_length": 8.68,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.4": {
+							"vector": [0, 0, 0]
+						},
+						"5.08": {
+							"vector": [0, -4062.5, 0],
+							"easing": "linear"
+						}
+					},
+					"position": {
+						"0.4": {
+							"vector": [0, 63.4, 0]
+						},
+						"1.2": {
+							"vector": [0, 63.4, 0]
+						}
+					},
+					"scale": {
+						"0.4": {
+							"vector": [0, 2.8, 0]
+						},
+						"1.2": {
+							"vector": [1.5, 2.8, 1.5],
+							"easing": "easeInOutCubic"
+						},
+						"4.0": {
+							"vector": [1.5, 2.8, 1.5],
+							"easing": "easeInOutCubic"
+						},
+						"5.08": {
+							"vector": [0, 2.8, 0],
+							"easing": "easeOutQuint"
+						}
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.92": {
+							"vector": [0, -1360, 0]
+						},
+						"5.08": {
+							"vector": [0, 0, 0]
+						}
+					},
+					"position": {
+						"vector": [0, 128, 0]
+					},
+					"scale": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.92": {
+							"vector": [2, 2, 2],
+							"easing": "easeInOutCubic"
+						},
+						"4.0": {
+							"vector": [2, 2, 2],
+							"easing": "easeInOutCubic"
+						},
+						"5.08": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutCubic"
+						}
+					}
+				},
+				"bone3": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.92": {
+							"vector": [0, -1360, 0]
+						},
+						"5.08": {
+							"vector": [0, -2660, 0]
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.92": {
+							"vector": [2, 2, 2],
+							"easing": "easeInOutCubic"
+						},
+						"4.0": {
+							"vector": [2, 2, 2],
+							"easing": "easeInOutCubic"
+						},
+						"5.08": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutCubic"
+						}
+					}
+				},
+				"bone4": {
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"5.08": {
+							"vector": [1, 1, 1]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

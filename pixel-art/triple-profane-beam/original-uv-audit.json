@@ -1,0 +1,38 @@
+{
+  "spell": "brutality_iron:triple_profane_beam",
+  "source_jar": "terramity-0.9.8-forge-1.20.1.jar",
+  "source_texture": "assets/terramity/textures/entities/holy_beam.png",
+  "native_size": [
+    64,
+    80
+  ],
+  "uv_regions": {
+    "upper_and_lower_rings": [
+      0,
+      0,
+      64,
+      64
+    ],
+    "transparent_end_faces": [
+      0,
+      64,
+      16,
+      80
+    ],
+    "unused_transparent": [
+      16,
+      64,
+      48,
+      80
+    ],
+    "four_column_walls": [
+      48,
+      64,
+      64,
+      80
+    ]
+  },
+  "model": "assets/terramity/geo/holy_beam.geo.json",
+  "animation": "assets/terramity/animations/holy_beam.animation.json",
+  "scope": "Texture draft only; no runtime changes or deployment"
+}

@@ -1,0 +1,32 @@
+{
+  "inferno_rune": {
+    "source": "..\\generated-art\\brutality-school-runes-20261115\\v2-decorated\\animated\\inferno_rune.png",
+    "sha256": "eecd1ae455cab6f3e647c2f7d7187aff904c025246c830e6228089b359348982",
+    "mcmeta_sha256": "835882b45adbe2db221081692d7360bde46051e991efa5cd862e98ed5a3c0205"
+  },
+  "inferno_upgrade_orb": {
+    "source": "..\\generated-art\\brutality-school-orbs-20261115\\animated\\inferno_upgrade_orb.png",
+    "sha256": "7b4d2b6cef465b6ddf2f22958c4e839305c3fc7b43d909312e67369565219c9f",
+    "mcmeta_sha256": "835882b45adbe2db221081692d7360bde46051e991efa5cd862e98ed5a3c0205"
+  },
+  "celestia_rune": {
+    "source": "..\\generated-art\\brutality-school-runes-20261115\\v2-decorated\\revision-cross-gap\\celestia_rune.png",
+    "sha256": "f0bad2852a2736d5be4f13836e6b5b664538d96529f7df06742f1b25c4374104",
+    "mcmeta_sha256": "835882b45adbe2db221081692d7360bde46051e991efa5cd862e98ed5a3c0205"
+  },
+  "celestia_upgrade_orb": {
+    "source": "..\\generated-art\\brutality-school-orbs-20261115\\animated\\celestia_upgrade_orb.png",
+    "sha256": "4e08b132e34e8ab2d832193cb24e93889adfd2028c44b0e8b59c737e2cb16bea",
+    "mcmeta_sha256": "835882b45adbe2db221081692d7360bde46051e991efa5cd862e98ed5a3c0205"
+  },
+  "nihility_rune": {
+    "source": "..\\generated-art\\brutality-school-runes-20261115\\v2-decorated\\revision-cross-gap\\nihility_rune.png",
+    "sha256": "f9403d021a1677e7de8a09545a98983a912fa5e47729d3f8c7d736173f0b8572",
+    "mcmeta_sha256": "835882b45adbe2db221081692d7360bde46051e991efa5cd862e98ed5a3c0205"
+  },
+  "nihility_upgrade_orb": {
+    "source": "..\\generated-art\\brutality-school-orbs-20261115\\animated\\nihility_upgrade_orb.png",
+    "sha256": "afe7113028a706adbeacb3a9cd2bc8befda8ea547dbc64cede544156e7047ba2",
+    "mcmeta_sha256": "835882b45adbe2db221081692d7360bde46051e991efa5cd862e98ed5a3c0205"
+  }
+}

@@ -1,0 +1,398 @@
+[
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/black_hole.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/black_hole.geo.json",
+    "sha256": "b9b094346934f9419673c029398751dcd8fbf266c2a53b8619d0dad49e849523"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/black_hole.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/black_hole.png",
+    "sha256": "246d62080d0509285790a61b69c2b54ad182b5a0cc553588ac53447849344c3d"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/animations/entity/black_hole.animation.json",
+    "target": "assets/brutality_iron/animations/ported/brutality/entity/black_hole.animation.json",
+    "sha256": "6ddf3186c4c274fa4afb81f7e5ec067d0c1823c25f34e187a23c5ed7d88d9725"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/cruel_sun.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/cruel_sun.geo.json",
+    "sha256": "dba3aebb93292de36a521f558717886de0eaccd9dd82aa487acf3bc154eb920e"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/cruel_sun.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/cruel_sun.png",
+    "sha256": "2d8bc26b04c70e408607f298b2e9b04f610190e25843c85767a9f72c13783eca"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/animations/entity/cruel_sun.animation.json",
+    "target": "assets/brutality_iron/animations/ported/brutality/entity/cruel_sun.animation.json",
+    "sha256": "c8b7f22dec9b7981089502f3c5d30910602a833b5cb570f6cdda23d01162cd81"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/rhongomyniad_ray.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/rhongomyniad_ray.geo.json",
+    "sha256": "dac48143b6d49c4d14b2f8a615eb2cd9efb323a6dcaed0f54234e76ac55a4075"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/rhongomyniad_ray.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/rhongomyniad_ray.png",
+    "sha256": "43465a1f382ea3eacff99ff8dcd90425df6eab2ae645a08bf981f3ac0c87312a"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/animations/entity/rhongomyniad_ray.animation.json",
+    "target": "assets/brutality_iron/animations/ported/brutality/entity/rhongomyniad_ray.animation.json",
+    "sha256": "9b3a616eba8ed0b3a4ba7a9db10c4d507840a72a0df2eab9843dab70a62f4453"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/bloodslash.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/bloodslash.geo.json",
+    "sha256": "ba196b04517da3b686ee4f2bf0244d23b8ea742a6f448dc9ee037743fe046ffe"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/bloodslash.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/bloodslash.png",
+    "sha256": "80f575618502d48fbe5a500e2a9caf777202d4f453630d61529e038e8feed9fa"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/shadowflame_slash.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/shadowflame_slash.geo.json",
+    "sha256": "ba196b04517da3b686ee4f2bf0244d23b8ea742a6f448dc9ee037743fe046ffe"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/shadowflame_slash.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/shadowflame_slash.png",
+    "sha256": "c702ae17dfd03895c27a7d20d44a7ed71480ad368c0d33feaa10ebc1e147c5ac"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/exoblade_beam.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/exoblade_beam.geo.json",
+    "sha256": "176727b8430ee317a43612129b665ae4515d16b67d50150f3ef3e2291a37e0b5"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/exoblade_beam.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/exoblade_beam.png",
+    "sha256": "731c22c18635b3a2bf150a67734a601289d3fffec5d0ff40b9969f6d8478300c"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/star.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/star.geo.json",
+    "sha256": "5033306188761dc635ac6b22fca706e167fb40f933072471c86e228e12e23576"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/star.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/star.png",
+    "sha256": "cd082f1d4a48571e220d3af8590dc01cc232c3ad418428f4a5d36a5789354349"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/abyss_projectile.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/abyss_projectile.geo.json",
+    "sha256": "684ce243724cf6552c4d1a92eef9fd36a8bee3a3956ffba8bede2f607a0fe63f"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/abyss_projectile.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/abyss_projectile.png",
+    "sha256": "38be5a9fb712cb81d81245d38f669df298b6e8490018f0617986489249ce0494"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/geo/entity/ice_cube.geo.json",
+    "target": "assets/brutality_iron/geo/ported/brutality/entity/ice_cube.geo.json",
+    "sha256": "162fb3c3933ef45c3d13b86e039d343d3bbc9b883c696d055a05b5843fd81721"
+  },
+  {
+    "source_mod": "brutality",
+    "source": "assets/brutality/textures/entity/ice_cube.png",
+    "target": "assets/brutality_iron/textures/ported/brutality/entity/ice_cube.png",
+    "sha256": "f88a39833914872bc201f627dec1121c4b6f18152e9a4a5da430c81d43cbacc3"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/tg_hand.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/tg_hand.geo.json",
+    "sha256": "3407f57f069d05acd00b848895563c070c6b45f8cbb15eaca0912be60481b3f2"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/trial_guardian.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/trial_guardian.png",
+    "sha256": "0f48680fe0e8321f77b6ebce4e3b0f7094f875ef2813cfbddaeeb647ef14d2ce"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/tg_hand.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/tg_hand.animation.json",
+    "sha256": "3305859f3e7c1e16611a2d43bea9a474dc2b8d0fcda0c23bd6b6b98d9e548dec"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/holy_beam.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/holy_beam.geo.json",
+    "sha256": "b5871418880250b36e788fe7d01db1e42faa91274d2b190204d2ad01772832d8"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/holy_beam.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/holy_beam.png",
+    "sha256": "2d7bd72147475ffb9d1b43365ba4d95d7c84039f289e055c20703f06fd364c39"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/holy_beam.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/holy_beam.animation.json",
+    "sha256": "be3446d7e475857b9614092caac32c02829a5d11b669b28a5784b1f26a9098e1"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/stygian_soul.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/stygian_soul.geo.json",
+    "sha256": "279627fc89504976d796d2574761965dbb9158498290444a83c8fdab819ded8b"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/stygian_soul.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/stygian_soul.png",
+    "sha256": "f8147be0bfa5dc12c4e7676f20476824da33cfc92f14a607f5802624529697a7"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/stygian_soul.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/stygian_soul.animation.json",
+    "sha256": "e119e8d72e442a63dc8e98bc0eb87b673cb31a0361b056e9d2db2b5e8b3104db"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/spirit_bomb.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/spirit_bomb.geo.json",
+    "sha256": "366ec1ac0671ad04d77bea67fbef40f3c7aa4eec00b76c896475246b82def545"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/spirit_bomb.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/spirit_bomb.png",
+    "sha256": "6f0ed55d93f4a48e39b87bcae21aab63fabd6f966cd5ff79d6dc3f532b51e20f"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/spirit_bomb.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/spirit_bomb.animation.json",
+    "sha256": "e05935c0811c04c9d0bca742d45b329ebff90207bdb5c7f45f44154d6bb11ac9"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/decoy.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/decoy.geo.json",
+    "sha256": "836249c55c07e863542fa010fcd3064adec3eab3f1072f19af2d1d9eaaa653a1"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/decoy.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/decoy.png",
+    "sha256": "ed67418e9932dbff38af4c80532f2c23b08fa771e49e1344b49113d38173b4f3"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/decoy.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/decoy.animation.json",
+    "sha256": "b872e0a3f8cc55bf1b3679f00defb32eba2d45c573bb3b9a65a22b743f8df778"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/conjurling.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/conjurling.geo.json",
+    "sha256": "e2acf9b066a54d3df1583630cc2c0280d6b94672bc70ed9ca125b23242b71e3a"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/conjurling.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/conjurling.png",
+    "sha256": "326dae7c29c015e6a3161e46db4513641afb85637a58e067f80130b13c7d74e2"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/conjurling.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/conjurling.animation.json",
+    "sha256": "bc14ce8db717a5737123bede9265cf229eb34e806d8d2e388ba1e3b9ff5387e4"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/geo/dungeon_effigy.geo.json",
+    "target": "assets/brutality_iron/geo/ported/terramity/dungeon_effigy.geo.json",
+    "sha256": "7e92c19f4a2e9cba7804cd2a28778735f9cd0257147d0fb1f67a407c776a046c"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/textures/entities/dungeon_effigy.png",
+    "target": "assets/brutality_iron/textures/ported/terramity/entities/dungeon_effigy.png",
+    "sha256": "2484cc70eeadc30359cb87a325e9f28537ec475d0e31445e476d38fade424c01"
+  },
+  {
+    "source_mod": "terramity",
+    "source": "assets/terramity/animations/dungeon_effigy.animation.json",
+    "target": "assets/brutality_iron/animations/ported/terramity/dungeon_effigy.animation.json",
+    "sha256": "8db6b4e045eccff64c09396a0b59e14654b02e59ddd4767cdb1efd7b62d7862a"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/acidic_slash.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/acidic_slash.geo.json",
+    "sha256": "982d95741f512d58dbd4c4cc7141964800f1bb4616bb65800090ac69f0be848d"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/acidic_slash.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/acidic_slash.png",
+    "sha256": "ece154f65a78c975164f0262a90a8a7b3c7db38d5a204e9241f8f4e65ac8b345"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/animations/acidic_slash.animation.json",
+    "target": "assets/brutality_iron/animations/ported/lethality/acidic_slash.animation.json",
+    "sha256": "b872e0a3f8cc55bf1b3679f00defb32eba2d45c573bb3b9a65a22b743f8df778"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/forbidden_scythe.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/forbidden_scythe.geo.json",
+    "sha256": "982d95741f512d58dbd4c4cc7141964800f1bb4616bb65800090ac69f0be848d"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/forbidden_scythe.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/forbidden_scythe.png",
+    "sha256": "99bad9266d1cccbcb92f472af7cf5d6741bce570adccde550b02ee42fb56d045"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/devils_scythe.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/devils_scythe.geo.json",
+    "sha256": "982d95741f512d58dbd4c4cc7141964800f1bb4616bb65800090ac69f0be848d"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/devils_scythe.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/devils_scythe.png",
+    "sha256": "fb8aec03176d3b7ad8d6685d3b85bf98839879cb5842ee263d4c29091f35405f"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/devils_pitchfork.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/devils_pitchfork.geo.json",
+    "sha256": "2b85dbd1abca597bf533b5f3eb07ed9565c2d6bf908eca8d7eedab11f4434e6e"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/devils_pitchfork.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/devils_pitchfork.png",
+    "sha256": "abe61c824896528ed8e627a72df1293a8b49361d00ce04c550afb3c689325eaa"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/gael_skull.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/gael_skull.geo.json",
+    "sha256": "794acce0bfc8783483be3e893c6878869aa27063362d97f4b3ef2f88ee386ade"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/gael_skull.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/gael_skull.png",
+    "sha256": "edfa2d5b7dacf615d3dd0513064a4e514abb0d42b698e3739959abf586037a90"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/animations/gael_skull_idle.animation.json",
+    "target": "assets/brutality_iron/animations/ported/lethality/gael_skull_idle.animation.json",
+    "sha256": "08bc1acc3c0a8cebb1bfade8590844941a8eea44969518b96c821381420f3292"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/vehemence_bolt.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/vehemence_bolt.geo.json",
+    "sha256": "2b85dbd1abca597bf533b5f3eb07ed9565c2d6bf908eca8d7eedab11f4434e6e"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/vehemence_bolt.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/vehemence_bolt.png",
+    "sha256": "891c144005d569fbbe489bb9a111a7f6475fca31529dfe7ecb7bb32658952b60"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/hook_model.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/hook_model.geo.json",
+    "sha256": "a5f25803da9423872f5ad5f9c759362ce00b0725852a3550e33ad92fe1b98362"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/hook.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/hook.png",
+    "sha256": "1d0c1cd4c8ce55a425858c6c4586b4d8706a62b43c8d3e8d3f54069447f30ed7"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/geo/starlight_stab.geo.json",
+    "target": "assets/brutality_iron/geo/ported/lethality/starlight_stab.geo.json",
+    "sha256": "2b85dbd1abca597bf533b5f3eb07ed9565c2d6bf908eca8d7eedab11f4434e6e"
+  },
+  {
+    "source_mod": "lethality",
+    "source": "assets/lethality/textures/entity/starlight_stab_0.png",
+    "target": "assets/brutality_iron/textures/ported/lethality/entity/starlight_stab_0.png",
+    "sha256": "eb344cd72f03a4fde165d4063fa16876c23797089f87a95d2fad1404c845f018"
+  },
+  {
+    "source_mod": "mortality",
+    "source": "assets/mortality/geo/meteor.geo.json",
+    "target": "assets/brutality_iron/geo/ported/mortality/meteor.geo.json",
+    "sha256": "ea5ee6321bb1147c81223c62facb7dbe40b943c9a180f9cf7df40a355c9c12c0"
+  },
+  {
+    "source_mod": "mortality",
+    "source": "assets/mortality/textures/entities/meteortexture.png",
+    "target": "assets/brutality_iron/textures/ported/mortality/entities/meteortexture.png",
+    "sha256": "bdb9ab0a68f02b89425719115b1020b955e1091fa4522321433ff1861a468c41"
+  },
+  {
+    "source_mod": "mortality",
+    "source": "assets/mortality/animations/meteor.animation.json",
+    "target": "assets/brutality_iron/animations/ported/mortality/meteor.animation.json",
+    "sha256": "6fc88671bdc9b930bc30b58383d9cbb6eba0b21b12a1339efec66a7d344c2ef7"
+  },
+  {
+    "source_mod": "mortality",
+    "source": "assets/mortality/geo/firespirit.geo.json",
+    "target": "assets/brutality_iron/geo/ported/mortality/firespirit.geo.json",
+    "sha256": "0259ed8a4bf7473e8d649961b5d5056ad59c26e6a397e864312ad5ced338f0bb"
+  },
+  {
+    "source_mod": "mortality",
+    "source": "assets/mortality/textures/entities/firespirittexture.png",
+    "target": "assets/brutality_iron/textures/ported/mortality/entities/firespirittexture.png",
+    "sha256": "9f59e3fd4edd99beedfe7d95bc7896c3f6d4a56207e12ad36443ab2e815369e0"
+  },
+  {
+    "source_mod": "mortality",
+    "source": "assets/mortality/animations/firespirit.animation.json",
+    "target": "assets/brutality_iron/animations/ported/mortality/firespirit.animation.json",
+    "sha256": "b958019ec04f7459b5e6c5ef3f061bf186ddac4848904b7a2b74b04131507299"
+  }
+]

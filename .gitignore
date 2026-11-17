@@ -1,0 +1,15 @@
+# Gradle state and generated output
+.gradle/
+build/
+run/
+
+# Local third-party dependencies and generated review/backup material
+libs/
+audit/
+deployment-backups/
+
+# Local logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

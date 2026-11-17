@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "IBI",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "item": "irons_spellbooks:mithril_weave"
+    },
+    "F": {
+      "item": "terramity:empty_essence"
+    },
+    "I": {
+      "item": "terramity:lost_soul"
+    },
+    "B": {
+      "item": "irons_spellbooks:shadowwalker_helmet"
+    }
+  },
+  "result": {
+    "item": "brutality_iron:masked_fool_helmet"
+  }
+}
