@@ -26,18 +26,18 @@ extends PortedLogic {
         long currentTime = level.getDayTime() % 24000L;
         float timeDiffFromNoon = Math.abs(currentTime - noonTime);
         float healingFactor = Math.min(timeDiffFromNoon / (float)(midnightTime - noonTime), 1.0f);
-        float healPercent = 0.1f + 0.9f * healingFactor;
-        MutableComponent component = Component.translatable((String)"spell.brutality.moonlit_mending.healed_for").append(healPercent * 100.0f + "% Max Health").withStyle(ChatFormatting.GREEN);
+        float healPercent = 0.10f + 0.25f * healingFactor;
+        MutableComponent component = Component.translatable((String)"spell.brutality.moonlit_mending.healed_for").append("月相治疗").withStyle(ChatFormatting.GREEN);
         player.displayClientMessage((Component)component, true);
         float maxHealth = player.getMaxHealth();
         float currentHealth = player.getHealth();
-        float healAmount = maxHealth * healPercent;
+        float healAmount = Math.min(maxHealth * healPercent, cn.wanyiwige.brutalityiron.NativeBalance.interpolate(getSpellName(), spellLevel, 8f, 18f) * (0.65f + 0.35f * healingFactor));
         player.heal(healAmount);
         float missingHealth = maxHealth - currentHealth;
         float excessHealing = Math.max(0.0f, healAmount - missingHealth);
         if (excessHealing > 0.0f) {
             float currentAbsorption = player.getAbsorptionAmount();
-            float newAbsorption = Math.min(maxHealth, currentAbsorption + excessHealing);
+            float newAbsorption = Math.max(currentAbsorption, Math.min(12f, currentAbsorption + excessHealing));
             player.setAbsorptionAmount(newAbsorption);
         }
         return true;

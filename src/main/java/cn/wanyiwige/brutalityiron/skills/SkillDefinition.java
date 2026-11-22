@@ -7,7 +7,7 @@ import java.util.*;
 
 public record SkillDefinition(String name, String id, String school, int max_level,
         String min_rarity, int mana, int cooldown, float damage, int duration,
-        int cast_time, String visual, String source_mod, String description) {
+        int mana_growth, float damage_growth, int duration_growth, int cast_time, String visual, String source_mod, String description) {
     public static final Map<String,SkillDefinition> ALL=load();
     private static Map<String,SkillDefinition> load() {
         try(var in=SkillDefinition.class.getResourceAsStream("/assets/brutality_iron/skill_expansion.json")) {

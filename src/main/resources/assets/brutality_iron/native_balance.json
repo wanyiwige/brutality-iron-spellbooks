@@ -1,0 +1,282 @@
+{
+  "dematerialize": {
+    "damage": [
+      15,
+      45
+    ],
+    "stats": {}
+  },
+  "holy_mantle": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        200,
+        400
+      ]
+    }
+  },
+  "sacred_oath": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        30,
+        60
+      ]
+    }
+  },
+  "nightfall": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        100,
+        180
+      ],
+      "RANGE": [
+        16,
+        24
+      ]
+    }
+  },
+  "duo_lunaris": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {}
+  },
+  "annihilation": {
+    "damage": [
+      5,
+      12
+    ],
+    "stats": {}
+  },
+  "heavenly_flight": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        160,
+        400
+      ]
+    }
+  },
+  "light_binding": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        30,
+        70
+      ],
+      "RANGE": [
+        16,
+        28
+      ]
+    }
+  },
+  "sacrifice": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "HEALING": [
+        12,
+        28
+      ],
+      "RANGE": [
+        6,
+        10
+      ]
+    }
+  },
+  "divine_retribution": {
+    "damage": [
+      5,
+      10
+    ],
+    "stats": {}
+  },
+  "cosmic_cataclysm": {
+    "damage": [
+      28,
+      65
+    ],
+    "stats": {}
+  },
+  "singularity_shift": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        100,
+        180
+      ],
+      "SIZE": [
+        3,
+        5
+      ]
+    }
+  },
+  "intangible": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "DURATION": [
+        40,
+        80
+      ]
+    }
+  },
+  "destruction": {
+    "damage": [
+      14,
+      32
+    ],
+    "stats": {}
+  },
+  "extinction": {
+    "damage": [
+      1.5,
+      5
+    ],
+    "stats": {}
+  },
+  "brimspike": {
+    "damage": [
+      3,
+      8
+    ],
+    "stats": {}
+  },
+  "gravitic_implosion": {
+    "damage": [
+      10,
+      25
+    ],
+    "stats": {}
+  },
+  "void_walk": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "RANGE": [
+        10,
+        24
+      ]
+    }
+  },
+  "moonlit_mending": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {}
+  },
+  "piercing_moonlight": {
+    "damage": [
+      10,
+      26
+    ],
+    "stats": {}
+  },
+  "crescent_scythe": {
+    "damage": [
+      7,
+      18
+    ],
+    "stats": {}
+  },
+  "spatial_rupture": {
+    "damage": [
+      6,
+      15
+    ],
+    "stats": {}
+  },
+  "edge_of_oblivion": {
+    "damage": [
+      6,
+      15
+    ],
+    "stats": {}
+  },
+  "stygian_step": {
+    "damage": [
+      7,
+      16
+    ],
+    "stats": {}
+  },
+  "chthonic_capsule": {
+    "damage": [
+      8,
+      20
+    ],
+    "stats": {}
+  },
+  "gravitokinesis": {
+    "damage": [
+      0,
+      0
+    ],
+    "stats": {
+      "RANGE": [
+        12,
+        24
+      ],
+      "PIERCE": [
+        1,
+        3
+      ]
+    }
+  },
+  "meteor_shower": {
+    "damage": [
+      4,
+      8
+    ],
+    "stats": {}
+  },
+  "star_burst": {
+    "damage": [
+      4,
+      9
+    ],
+    "stats": {}
+  },
+  "star_stream": {
+    "damage": [
+      3,
+      6
+    ],
+    "stats": {}
+  },
+  "crescent_dart": {
+    "damage": [
+      2,
+      5
+    ],
+    "stats": {}
+  }
+}

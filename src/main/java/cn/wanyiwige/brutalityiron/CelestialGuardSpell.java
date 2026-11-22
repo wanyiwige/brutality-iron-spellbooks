@@ -12,8 +12,8 @@ import net.minecraft.world.level.Level;
 
 public final class CelestialGuardSpell extends AbstractSpell {
     private final DefaultConfig defaults=new DefaultConfig().setSchoolResource(BrutalityIron.id("celestia"))
-            .setMaxLevel(5).setMinRarity(SpellRarity.LEGENDARY).setCooldownSeconds(45).build();
-    public CelestialGuardSpell(){baseManaCost=60;manaCostPerLevel=5;baseSpellPower=1;spellPowerPerLevel=0;castTime=20;}
+            .setMaxLevel(5).setMinRarity(SpellRarity.LEGENDARY).setCooldownSeconds(60).build();
+    public CelestialGuardSpell(){baseManaCost=100;manaCostPerLevel=20;baseSpellPower=1;spellPowerPerLevel=0;castTime=20;}
     @Override public ResourceLocation getSpellResource(){return BrutalityIron.id("celestial_guard");}
     @Override public DefaultConfig getDefaultConfig(){return defaults;}
     @Override public CastType getCastType(){return CastType.LONG;}

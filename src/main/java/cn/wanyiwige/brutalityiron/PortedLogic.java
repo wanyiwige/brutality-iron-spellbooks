@@ -17,8 +17,13 @@ public abstract class PortedLogic extends BrutalitySpell {
     }
 
     @Override
+    public float getFinalStat(int rank, SpellStatComponent stat) {
+        return NativeBalance.stat(getSpellName(), stat.type().name(), rank, super.getFinalStat(rank, stat));
+    }
+
+    @Override
     public float getFinalDamage(Entity caster, int rank) {
-        float base = getBaseDamage() + getDamageLevelScaling() * rank;
+        float base = NativeBalance.damage(getSpellName(), rank);
         NativeSpell spell = Content.spell(getSpellName());
         return base * spell.getEntityPowerMultiplier(caster instanceof LivingEntity living ? living : null);
     }

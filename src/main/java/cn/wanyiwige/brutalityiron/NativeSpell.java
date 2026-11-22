@@ -25,11 +25,12 @@ public final class NativeSpell extends AbstractSpell {
         type = logic.getCategories().contains(SpellCategory.CONTINUOUS) ? CastType.CONTINUOUS
                 : logic.getCategories().contains(SpellCategory.CHANNELLING) ? CastType.LONG : CastType.INSTANT;
         var progression = SpellProgression.get(logic.getSpellName());
+        var budget = SpellBudgets.get(logic.getSpellName());
         defaults = new DefaultConfig().setSchoolResource(Content.school(logic.getSchool()))
                 .setMaxLevel(progression.maxLevel()).setMinRarity(progression.minimumRarity())
-                .setCooldownSeconds(Math.max(1, logic.getBaseCooldown()) / 20.0).build();
-        baseManaCost = Math.max(1, Math.round(logic.getBaseManaCost() + logic.getManaCostLevelScaling()));
-        manaCostPerLevel = Math.max(0, Math.round(logic.getManaCostLevelScaling()));
+                .setCooldownSeconds(budget.cooldown()).build();
+        baseManaCost = budget.mana();
+        manaCostPerLevel = budget.growth();
         baseSpellPower = 1;
         spellPowerPerLevel = 0;
         castTime = type == CastType.CONTINUOUS ? 200 : Math.max(1, logic.getBaseCastTime());

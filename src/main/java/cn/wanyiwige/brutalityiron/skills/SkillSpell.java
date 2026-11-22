@@ -33,7 +33,7 @@ public final class SkillSpell extends AbstractSpell {
         defaults=new DefaultConfig().setSchoolResource(SchoolFallback.resolve(new ResourceLocation(definition.school())))
             .setMaxLevel(definition.max_level()).setMinRarity(SpellRarity.valueOf(definition.min_rarity()))
             .setCooldownSeconds(definition.cooldown()).build();
-        baseManaCost=definition.mana();manaCostPerLevel=Math.max(1,definition.mana()/12);
+        baseManaCost=definition.mana();manaCostPerLevel=definition.mana_growth();
         baseSpellPower=Math.round(definition.damage());spellPowerPerLevel=Math.max(1,Math.round(definition.damage()*.12f));
         castTime=definition.cast_time();
     }
@@ -44,8 +44,8 @@ public final class SkillSpell extends AbstractSpell {
     @Override public boolean allowLooting(){return true;}
     @Override public SpellRarity getRarity(int rank){return rank>=Math.max(1,getMaxLevel()-1)?SpellRarity.LEGENDARY:super.getRarity(rank);}
     @Override public int getMinLevelForRarity(SpellRarity rarity){for(int i=1;i<=getMaxLevel();i++)if(getRarity(i)==rarity)return i;return 0;}
-    public float damage(int rank,LivingEntity caster){return definition.damage()==0?0:(definition.damage()+Math.max(0,rank-1)*Math.max(.5f,definition.damage()*.12f))*getEntityPowerMultiplier(caster);}
-    public int duration(int rank){return Math.min(1200,definition.duration()+Math.max(0,rank-1)*10);}
+    public float damage(int rank,LivingEntity caster){return definition.damage()==0?0:(definition.damage()+Math.max(0,rank-1)*definition.damage_growth())*getEntityPowerMultiplier(caster);}
+    public int duration(int rank){return Math.min(1200,definition.duration()+Math.max(0,rank-1)*definition.duration_growth());}
     @Override public boolean checkPreCastConditions(Level level,int rank,LivingEntity caster,MagicData data){return caster instanceof Player p&&SkillRuntime.canCast(definition,p,rank);}
     @Override public List<MutableComponent> getUniqueInfo(int rank,LivingEntity caster){
         var lines=new java.util.ArrayList<MutableComponent>();lines.add(Component.translatable("spell.brutality_iron."+definition.id()+".guide"));
